@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Android</string>
+    <string name="app_name_bboard">FieldTest</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    <string name="network_discovery">Automatic Discovery</string>
+    <string name="reconnect_action">Reconnect</string>
+    <string name="close_app_action">Close App</string>
+    <string name="circle">Circle</string>
+    <string name="square">Square</string>
+    <string name="document">Document</string>
+    <string name="image">Image</string>
+    <string name="circle_pull">Circle Pull</string>
+    <string name="square_pull">Square Pull</string>
+    <string name="move_cursor">Move Cursor</string>
+    <string name="reset_orientation">Reset orientation</string>
+
+    <string name="sensor_label">Sensor</string>
+    <string name="sensor_calibrated_name">GyroscopeCalibrated</string>
+    <string name="sensor_uncalibrated_name">GyroscopeUncalibrated</string>
+    <string name="sensor_active">Active</string>
+    <string name="sensor_unavailable">Unavailable</string>
+    <string name="action_config">Settings</string>
+    <string name="action_reset">Reset</string>
+    <string name="label_x_axis">X-Axis:</string>
+    <string name="label_y_axis">Y-Axis:</string>
+    <string name="label_z_axis">Z-Axis:</string>
+    <string name="value_default">0.0</string>
+    <string name="value_default_mean_filter">0.5</string>
+    <string name="value_default_complimentary_filter">0.5</string>
+    <string name="developer_url">KircherElectronics.com</string>
+    <string name="confirm_label">I got this.</string>
+    <string name="action_options">Options</string>
+    <string name="action_help">Help</string>
+    <string name="action_start_log">Start</string>
+    <string name="action_stop_log">Stop</string>
+    <string name="gyro_config">Gyro config</string>
+    <string name="resetGyro">Reset gyroscope</string>
+</resources>

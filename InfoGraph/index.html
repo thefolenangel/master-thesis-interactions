@@ -1,0 +1,105 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<title>Test Statistics</title>
+	<link href="styles.css" rel="stylesheet" type="text/css">
+	<script language="javascript" type="text/javascript" src="./flot/jquery.js"></script>
+	<script language="javascript" type="text/javascript" src="./flot/jquery.flot.js"></script>
+	<script language="javascript" type="text/javascript" src="./flot/jquery.flot.errorbars.js"></script>
+	<script language="javascript" type="text/javascript" src="../Data/techniqueinfo.js"></script>
+	<script type="text/javascript">
+
+	$(function() {
+	
+		var options = {legend: {position: "sw", show: true}, series: {lines: {show: false}},
+					   xaxis: {min: 0.5, max: 4.5, ticks:[[1,'Pinch'],[2,'Swipe'],[3,'Throw'],[4,'Tilt']]}
+		};
+		
+		var std_bars = {
+			//do not show points
+			radius: 0,
+			errorbars: "y", 
+			yerr: {show:true, upperCap: "-", lowerCap: "-", radius: 5}
+		};
+		
+		var hitPush = [	[1.0,data.Pinch.Push.HPM,data.Pinch.Push.HPSTD],
+						[2.0,data.Swipe.Push.HPM,data.Swipe.Push.HPSTD],
+						[3.0,data.Throw.Push.HPM,data.Throw.Push.HPSTD],
+						[4.0,data.Tilt.Push.HPM, data.Tilt.Push.HPSTD]];
+						
+		var hitPull = [	[1.0,data.Pinch.Pull.HPM,data.Pinch.Pull.HPSTD],
+						[2.0,data.Swipe.Pull.HPM,data.Swipe.Pull.HPSTD],
+						[3.0,data.Throw.Pull.HPM,data.Throw.Pull.HPSTD],
+						[4.0,data.Tilt.Pull.HPM, data.Tilt.Pull.HPSTD]];
+						
+		var timePush = [[1.0,data.Pinch.Push.TTM,data.Pinch.Push.TTSTD],
+						[2.0,data.Swipe.Push.TTM,data.Swipe.Push.TTSTD],
+						[3.0,data.Throw.Push.TTM,data.Throw.Push.TTSTD],
+						[4.0,data.Tilt.Push.TTM, data.Tilt.Push.TTSTD]];
+						
+		var timePull = [[1.0,data.Pinch.Pull.TTM,data.Pinch.Pull.TTSTD],
+						[2.0,data.Swipe.Pull.TTM,data.Swipe.Pull.TTSTD],
+						[3.0,data.Throw.Pull.TTM,data.Throw.Pull.TTSTD],
+						[4.0,data.Tilt.Pull.TTM, data.Tilt.Pull.TTSTD]];
+						
+		var accPush = [	[1.0,data.Pinch.Push.ACCM,data.Pinch.Push.ACCSTD],
+						[2.0,data.Swipe.Push.ACCM,data.Swipe.Push.ACCSTD],
+						[3.0,data.Throw.Push.ACCM,data.Throw.Push.ACCSTD],
+						[4.0,data.Tilt.Push.ACCM, data.Tilt.Push.ACCSTD]];
+						
+		var accPull = [	[1.0,data.Pinch.Pull.ACCM,data.Pinch.Pull.ACCSTD],
+						[2.0,data.Swipe.Pull.ACCM,data.Swipe.Pull.ACCSTD],
+						[3.0,data.Throw.Pull.ACCM,data.Throw.Pull.ACCSTD],
+						[4.0,data.Tilt.Pull.ACCM, data.Tilt.Pull.ACCSTD]];
+
+		var hitData = [	{color: "green", lines: {show: true}, points: std_bars, data: hitPush, label: "Push"},
+						{color: "red", lines: {show: true}, points: std_bars, data: hitPull, label: "Pull"}];
+						
+		var timeData = [{color: "green", lines: {show: true}, points: std_bars, data: timePush, label: "Push"},
+						{color: "red", lines: {show: true}, points: std_bars, data: timePull, label: "Pull"}];
+						
+		var accData = [	{color: "green", lines: {show: true}, points: std_bars, data: accPush, label: "Push"},
+						{color: "red", lines: {show: true}, points: std_bars, data: accPull, label: "Pull"}];
+						
+						
+		options.yaxis = {min: 0, max: 1.5}
+		$.plot("#HitPercentage", hitData, options);
+		
+		options.yaxis = {min:0, max: 16}
+		$.plot("#TimeTaken", timeData, options);
+		
+		options.yaxis = {min:-150, max: 300}
+		$.plot("#Accuracy", accData, options);
+		
+
+	});
+
+	</script>
+</head>
+<body>
+
+	<div id="header">
+		<h2>Statistics</h2>
+	</div>
+
+	<div class="table-container">
+		<div class="row">
+			<div class="graph-container">
+				<div id="HitPercentage" class="graph"></div>
+			</div>
+			<div class="graph-container">
+				<div id="TimeTaken" class="graph"></div>
+			</div>
+		</div>
+		
+		<div class="row">
+			<div class="graph-container">
+				<div id="Accuracy" class="graph"></div>
+			</div>
+		</div>
+
+	</div>
+
+</body>
+</html>

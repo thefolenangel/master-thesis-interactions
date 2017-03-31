@@ -1,0 +1,77 @@
+﻿<Window x:Class="SW9_Project.CanvasWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:Control="clr-namespace:SW9_Project"
+        xmlns:local="clr-namespace:SW9_Project"
+        mc:Ignorable="d"
+        Title="CanvasWindow" 
+        Height="724"
+        Width="1200"
+        WindowStyle="SingleBorderWindow"
+        WindowState="Normal" KeyDown="Window_KeyDown"
+        Background="Black"
+        >
+
+    <Grid>
+        <Canvas x:Name="videoBackground"
+                HorizontalAlignment="Center"
+                VerticalAlignment="Center"
+                Background="White"
+                Height="500"
+                Width="1000"
+                Panel.ZIndex="15000"
+                Visibility="Hidden"
+                />
+        <Label x:Name="videoLabel"
+               HorizontalContentAlignment="Center"
+               VerticalAlignment="Center"
+               HorizontalAlignment="Center"
+               Foreground="Black"
+               FontSize="100"
+               Visibility="Hidden"
+               Panel.ZIndex="20000"
+           />
+        <Canvas x:Name="canvas" Loaded="canvas_Loaded" SizeChanged="canvas_SizeChanged" Margin="40, 60, 40, 60">
+        </Canvas>
+        
+        <Label x:Name="testIDLabel" 
+               Content="User ID: Not Started" 
+               HorizontalAlignment="Left" 
+               Margin="40,14,0,0" 
+               VerticalAlignment="Top" 
+               Width="254" Height="45" 
+               Foreground="White" 
+               Opacity="0"
+               FontSize="26.667"/>
+        <Label x:Name="connectedLabel" 
+               Content="Not Connected!" 
+               HorizontalAlignment="Right" 
+               Margin="865,14,0,0" 
+               VerticalAlignment="Top" 
+               Width="287" Height="46" 
+               Foreground ="White" 
+               Opacity="0"
+               FontSize="26.667" />
+
+        <Label x:Name="gestureTypeLabel" 
+               Content="None" 
+               HorizontalAlignment="Right" 
+               Margin="0,14,444,0" 
+               VerticalAlignment="Top" 
+               Width="287" Height="46" 
+               Foreground ="White" 
+               Opacity="0"
+               FontSize="26.667" />
+        <Label x:Name="progressLabel" 
+               Content="None" 
+               HorizontalAlignment="Right" 
+               Margin="0,636,444,0" 
+               VerticalAlignment="Top" 
+               Width="287" Height="46" 
+               Foreground ="White" 
+               Opacity="0"
+               FontSize="26.667" />
+    </Grid>
+</Window>

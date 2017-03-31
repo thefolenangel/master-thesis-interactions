@@ -1,0 +1,669 @@
+[12/8/2015 1:07:27 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 303.374455332756 Y = 0 Cell: X = 2 Y = 0
+[12/8/2015 1:08:15 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 514.976518690586 Y = 0 Cell: X = 4 Y = 0
+[12/8/2015 1:09:21 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 318.118772000074 Y = 0 Cell: X = 2 Y = 0
+[12/8/2015 1:09:26 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 445.053529858589 Y = 336.827634529694 Cell: X = 3 Y = 2
+[12/8/2015 1:09:26 PM]: KINECT GESTURE Type: Pinch Direction: Pull Shape:  Pointer: X = 334.898974537849 Y = 306.140150256957 Cell: X = 2 Y = 2
+[12/8/2015 1:09:28 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 461.241962954402 Y = 0 Cell: X = 3 Y = 0
+[12/8/2015 1:09:34 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 335.354191541672 Y = 0 Cell: X = 2 Y = 0
+[12/8/2015 1:09:42 PM]: MOBILE GESTURE Type: Pinch Direction: Pull Shape: circle
+[12/8/2015 1:09:42 PM]: MOBILE GESTURE Type: Pinch Direction: Pull Shape: circle
+[12/8/2015 1:09:42 PM]: MOBILE GESTURE Type: Pinch Direction: Pull Shape: circle
+[12/8/2015 1:09:43 PM]: MOBILE GESTURE Type: Swipe Direction: Pull Shape: circle
+[12/8/2015 1:09:44 PM]: MOBILE GESTURE Type: Pinch Direction: Pull Shape: circle
+[12/8/2015 1:09:46 PM]: MOBILE GESTURE Type: Pinch Direction: Pull Shape: circle
+[12/8/2015 1:09:46 PM]: MOBILE GESTURE Type: Pinch Direction: Pull Shape: circle
+[12/8/2015 1:09:47 PM]: MOBILE GESTURE Type: Swipe Direction: Push Shape: circle
+[12/8/2015 1:09:49 PM]: MOBILE GESTURE Type: Pinch Direction: Pull Shape: circle
+[12/8/2015 1:09:50 PM]: MOBILE GESTURE Type: Pinch Direction: Pull Shape: circle
+[12/8/2015 1:09:50 PM]: MOBILE GESTURE Type: Pinch Direction: Pull Shape: circle
+[12/8/2015 1:09:51 PM]: MOBILE GESTURE Type: Pinch Direction: Pull Shape: circle
+[12/8/2015 1:09:53 PM]: MOBILE GESTURE Type: Pinch Direction: Pull Shape: circle
+[12/8/2015 1:09:53 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 537.671675011516 Y = 0 Cell: X = 4 Y = 0
+[12/8/2015 1:09:54 PM]: MOBILE GESTURE Type: Swipe Direction: Pull Shape: circle
+[12/8/2015 1:09:56 PM]: MOBILE GESTURE Type: Pinch Direction: Pull Shape: square
+[12/8/2015 1:09:56 PM]: MOBILE GESTURE Type: Pinch Direction: Pull Shape: square
+[12/8/2015 1:09:57 PM]: MOBILE GESTURE Type: Pinch Direction: Pull Shape: square
+[12/8/2015 1:09:57 PM]: MOBILE GESTURE Type: Pinch Direction: Pull Shape: square
+[12/8/2015 1:09:58 PM]: MOBILE GESTURE Type: Pinch Direction: Pull Shape: square
+[12/8/2015 1:09:59 PM]: MOBILE GESTURE Type: Pinch Direction: Pull Shape: square
+[12/8/2015 1:10:01 PM]: MOBILE GESTURE Type: Pinch Direction: Pull Shape: square
+[12/8/2015 1:10:01 PM]: MOBILE GESTURE Type: Pinch Direction: Pull Shape: square
+[12/8/2015 1:10:05 PM]: MOBILE GESTURE Type: Pinch Direction: Pull Shape: square
+[12/8/2015 1:10:06 PM]: MOBILE GESTURE Type: Pinch Direction: Pull Shape: square
+[12/8/2015 1:10:06 PM]: MOBILE GESTURE Type: Pinch Direction: Pull Shape: square
+[12/8/2015 1:10:07 PM]: MOBILE GESTURE Type: Pinch Direction: Pull Shape: square
+[12/8/2015 1:10:07 PM]: MOBILE GESTURE Type: Pinch Direction: Pull Shape: square
+[12/8/2015 1:10:09 PM]: MOBILE GESTURE Type: Pinch Direction: Pull Shape: square
+[12/8/2015 1:10:09 PM]: MOBILE GESTURE Type: Pinch Direction: Pull Shape: square
+[12/8/2015 1:10:10 PM]: MOBILE GESTURE Type: Pinch Direction: Pull Shape: square
+[12/8/2015 1:10:10 PM]: MOBILE GESTURE Type: Pinch Direction: Pull Shape: square
+[12/8/2015 1:10:12 PM]: MOBILE GESTURE Type: Pinch Direction: Pull Shape: square
+[12/8/2015 1:10:12 PM]: MOBILE GESTURE Type: Pinch Direction: Pull Shape: square
+[12/8/2015 1:10:13 PM]: MOBILE GESTURE Type: Pinch Direction: Pull Shape: square
+[12/8/2015 1:10:13 PM]: MOBILE GESTURE Type: Swipe Direction: Push Shape: square
+[12/8/2015 1:10:15 PM]: MOBILE GESTURE Type: Pinch Direction: Pull Shape: square
+[12/8/2015 1:10:15 PM]: MOBILE GESTURE Type: Pinch Direction: Pull Shape: square
+[12/8/2015 1:10:16 PM]: MOBILE GESTURE Type: Swipe Direction: Push Shape: square
+[12/8/2015 1:10:18 PM]: MOBILE GESTURE Type: Pinch Direction: Pull Shape: square
+[12/8/2015 1:10:18 PM]: MOBILE GESTURE Type: Pinch Direction: Pull Shape: square
+[12/8/2015 1:10:19 PM]: MOBILE GESTURE Type: Pinch Direction: Pull Shape: square
+[12/8/2015 1:10:20 PM]: MOBILE GESTURE Type: Pinch Direction: Pull Shape: square
+[12/8/2015 1:10:20 PM]: MOBILE GESTURE Type: Pinch Direction: Pull Shape: square
+[12/8/2015 1:10:21 PM]: MOBILE GESTURE Type: Swipe Direction: Push Shape: square
+[12/8/2015 1:10:29 PM]: MOBILE GESTURE Type: Swipe Direction: Push Shape: square
+[12/8/2015 1:10:33 PM]: MOBILE GESTURE Type: Pinch Direction: Pull Shape: square
+[12/8/2015 1:10:33 PM]: MOBILE GESTURE Type: Pinch Direction: Pull Shape: square
+[12/8/2015 1:10:40 PM]: MOBILE GESTURE Type: Pinch Direction: Pull Shape: square
+[12/8/2015 1:10:41 PM]: MOBILE GESTURE Type: Pinch Direction: Pull Shape: square
+[12/8/2015 1:10:42 PM]: MOBILE GESTURE Type: Swipe Direction: Pull Shape: square
+[12/8/2015 1:10:53 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 398.434652298689 Y = 0 Cell: X = 3 Y = 0
+[12/8/2015 1:11:07 PM]: KINECT GESTURE Type: Throw Direction: Push Shape:  Pointer: X = 0 Y = 0 Cell: X = 0 Y = 0
+[12/8/2015 1:11:15 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 0 Y = 0 Cell: X = 0 Y = 0
+[12/8/2015 1:11:24 PM]: MOBILE GESTURE Type: Pinch Direction: Pull Shape: square
+[12/8/2015 1:11:25 PM]: KINECT GESTURE Type: Pinch Direction: Pull Shape:  Pointer: X = 318.311213523149 Y = 0 Cell: X = 2 Y = 0
+[12/8/2015 1:11:26 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 57.7199024558067 Y = 383.697928090891 Cell: X = 0 Y = 3
+[12/8/2015 1:11:28 PM]: KINECT GESTURE Type: Pinch Direction: Pull Shape:  Pointer: X = 179.146089553833 Y = 533.306100524154 Cell: X = 2 Y = 8
+[12/8/2015 1:11:36 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 444.131427794695 Y = 579.190768913701 Cell: X = 7 Y = 9
+[12/8/2015 1:11:40 PM]: KINECT GESTURE Type: Throw Direction: Push Shape:  Pointer: X = 25.8027938604355 Y = 0 Cell: X = 0 Y = 0
+[12/8/2015 1:11:40 PM]: KINECT GESTURE Type: Pinch Direction: Pull Shape:  Pointer: X = 468.311909586191 Y = 256.123510256355 Cell: X = 7 Y = 4
+[12/8/2015 1:11:40 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 79.7207189798355 Y = 0 Cell: X = 1 Y = 0
+[12/8/2015 1:11:41 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 412.968527883291 Y = 0 Cell: X = 6 Y = 0
+[12/8/2015 1:11:42 PM]: MOBILE GESTURE Type: Pinch Direction: Pull Shape: square
+[12/8/2015 1:11:43 PM]: MOBILE GESTURE Type: Pinch Direction: Pull Shape: square
+[12/8/2015 1:11:43 PM]: MOBILE GESTURE Type: Pinch Direction: Pull Shape: square
+[12/8/2015 1:11:44 PM]: MOBILE GESTURE Type: Pinch Direction: Pull Shape: square
+[12/8/2015 1:11:44 PM]: MOBILE GESTURE Type: Pinch Direction: Pull Shape: square
+[12/8/2015 1:11:45 PM]: KINECT GESTURE Type: Pinch Direction: Pull Shape:  Pointer: X = 393.779622465372 Y = 13.4293620743885 Cell: X = 6 Y = 0
+[12/8/2015 1:11:49 PM]: KINECT GESTURE Type: Throw Direction: Push Shape:  Pointer: X = 0 Y = 0 Cell: X = 0 Y = 0
+[12/8/2015 1:11:50 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 455.850525006652 Y = 599.92452045769 Cell: X = 7 Y = 9
+[12/8/2015 1:11:51 PM]: KINECT GESTURE Type: Throw Direction: Push Shape:  Pointer: X = 183.36323261261 Y = 0 Cell: X = 3 Y = 0
+[12/8/2015 1:11:51 PM]: KINECT GESTURE Type: Pinch Direction: Pull Shape:  Pointer: X = 415.645487517118 Y = 66.1249376443693 Cell: X = 6 Y = 1
+[12/8/2015 1:11:52 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 248.932571172714 Y = 0 Cell: X = 4 Y = 0
+[12/8/2015 1:11:53 PM]: MOBILE GESTURE Type: Pinch Direction: Pull Shape: square
+[12/8/2015 1:11:54 PM]: MOBILE GESTURE Type: Pinch Direction: Pull Shape: square
+[12/8/2015 1:11:54 PM]: MOBILE GESTURE Type: Pinch Direction: Pull Shape: square
+[12/8/2015 1:11:56 PM]: MOBILE GESTURE Type: Swipe Direction: Push Shape: square
+[12/8/2015 1:11:56 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 245.692288637161 Y = 0 Cell: X = 4 Y = 0
+[12/8/2015 1:11:56 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 547.705660685897 Y = 5.48698394984405 Cell: X = 9 Y = 0
+[12/8/2015 1:11:56 PM]: KINECT GESTURE Type: Pinch Direction: Pull Shape:  Pointer: X = 478.53350675106 Y = 0 Cell: X = 7 Y = 0
+[12/8/2015 1:11:58 PM]: KINECT GESTURE Type: Pinch Direction: Pull Shape:  Pointer: X = 458.791363611817 Y = 515.822114688052 Cell: X = 7 Y = 8
+[12/8/2015 1:12:07 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 175.21346616745 Y = 0 Cell: X = 2 Y = 0
+[12/8/2015 1:12:08 PM]: MOBILE GESTURE Type: Pinch Direction: Pull Shape: square
+[12/8/2015 1:12:09 PM]: MOBILE GESTURE Type: Swipe Direction: Push Shape: square
+[12/8/2015 1:12:10 PM]: MOBILE GESTURE Type: Pinch Direction: Pull Shape: square
+[12/8/2015 1:12:11 PM]: KINECT GESTURE Type: Pinch Direction: Pull Shape:  Pointer: X = 521.153126373887 Y = 0 Cell: X = 8 Y = 0
+[12/8/2015 1:12:14 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 459.733328506351 Y = 573.852074218789 Cell: X = 7 Y = 9
+[12/8/2015 1:12:20 PM]: MOBILE GESTURE Type: Pinch Direction: Pull Shape: circle
+[12/8/2015 1:12:20 PM]: KINECT GESTURE Type: Pinch Direction: Pull Shape:  Pointer: X = 514.929774105549 Y = 0 Cell: X = 4 Y = 0
+[12/8/2015 1:12:20 PM]: KINECT GESTURE Type: Pinch Direction: Pull Shape:  Pointer: X = 617.575571168214 Y = 13.4907680425559 Cell: X = 5 Y = 0
+[12/8/2015 1:12:23 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 1057.80611675978 Y = 230.891138130101 Cell: X = 8 Y = 1
+[12/8/2015 1:12:27 PM]: MOBILE GESTURE Type: Pinch Direction: Pull Shape: square
+[12/8/2015 1:12:27 PM]: MOBILE GESTURE Type: Pinch Direction: Pull Shape: square
+[12/8/2015 1:12:28 PM]: KINECT GESTURE Type: Pinch Direction: Pull Shape:  Pointer: X = 445.670055478811 Y = 24.8328022597497 Cell: X = 3 Y = 0
+[12/8/2015 1:12:37 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 386.17557734251 Y = 81.7914123917144 Cell: X = 3 Y = 0
+[12/8/2015 1:12:40 PM]: MOBILE GESTURE Type: Pinch Direction: Pull Shape: circle
+[12/8/2015 1:12:40 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 434.795191884041 Y = 0 Cell: X = 7 Y = 0
+[12/8/2015 1:12:42 PM]: MOBILE GESTURE Type: Pinch Direction: Pull Shape: circle
+[12/8/2015 1:12:43 PM]: KINECT GESTURE Type: Pinch Direction: Pull Shape:  Pointer: X = 329.421518594027 Y = 0 Cell: X = 5 Y = 0
+[12/8/2015 1:12:43 PM]: KINECT GESTURE Type: Pinch Direction: Pull Shape:  Pointer: X = 455.295604914427 Y = 41.604408485776 Cell: X = 7 Y = 0
+[12/8/2015 1:12:44 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 155.289961636066 Y = 0 Cell: X = 2 Y = 0
+[12/8/2015 1:12:47 PM]: KINECT GESTURE Type: Pinch Direction: Pull Shape:  Pointer: X = 460.164802372456 Y = 0 Cell: X = 3 Y = 0
+[12/8/2015 1:12:49 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 400.035853326321 Y = 158.592630951409 Cell: X = 3 Y = 1
+[12/8/2015 1:12:50 PM]: KINECT GESTURE Type: Pinch Direction: Pull Shape:  Pointer: X = 396.40585771203 Y = 38.3106380998405 Cell: X = 3 Y = 0
+[12/8/2015 1:12:50 PM]: KINECT GESTURE Type: Pinch Direction: Pull Shape:  Pointer: X = 379.998001843691 Y = 53.9948308443044 Cell: X = 3 Y = 0
+[12/8/2015 1:12:51 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 211.481620073318 Y = 0 Cell: X = 1 Y = 0
+[12/8/2015 1:12:52 PM]: MOBILE GESTURE Type: Pinch Direction: Pull Shape: circle
+[12/8/2015 1:12:52 PM]: KINECT GESTURE Type: Pinch Direction: Pull Shape:  Pointer: X = 398.704446703196 Y = 1.94725538940634 Cell: X = 3 Y = 0
+[12/8/2015 1:12:56 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 451.081736147404 Y = 83.8572921471336 Cell: X = 3 Y = 0
+[12/8/2015 1:13:02 PM]: MOBILE GESTURE Type: Pinch Direction: Pull Shape: square
+[12/8/2015 1:13:02 PM]: MOBILE GESTURE Type: Pinch Direction: Pull Shape: square
+[12/8/2015 1:13:03 PM]: KINECT GESTURE Type: Pinch Direction: Pull Shape:  Pointer: X = 345.28235065937 Y = 0 Cell: X = 5 Y = 0
+[12/8/2015 1:13:03 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 297.364194333553 Y = 0 Cell: X = 4 Y = 0
+[12/8/2015 1:13:06 PM]: KINECT GESTURE Type: Pinch Direction: Pull Shape:  Pointer: X = 390.258275449276 Y = 0 Cell: X = 3 Y = 0
+[12/8/2015 1:13:07 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 227.562300026417 Y = 0 Cell: X = 1 Y = 0
+[12/8/2015 1:13:10 PM]: MOBILE GESTURE Type: Pinch Direction: Pull Shape: circle
+[12/8/2015 1:13:11 PM]: KINECT GESTURE Type: Pinch Direction: Pull Shape:  Pointer: X = 341.224888116121 Y = 0 Cell: X = 2 Y = 0
+[12/8/2015 1:13:14 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 36.4322664737701 Y = 214.575827513092 Cell: X = 0 Y = 1
+[12/8/2015 1:13:15 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 348.402189910412 Y = 0 Cell: X = 2 Y = 0
+[12/8/2015 1:13:17 PM]: MOBILE GESTURE Type: Pinch Direction: Pull Shape: circle
+[12/8/2015 1:13:18 PM]: KINECT GESTURE Type: Pinch Direction: Pull Shape:  Pointer: X = 573.059976071119 Y = 0 Cell: X = 4 Y = 0
+[12/8/2015 1:13:21 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 920.077719449997 Y = 217.451685418824 Cell: X = 7 Y = 1
+[12/8/2015 1:13:25 PM]: MOBILE GESTURE Type: Pinch Direction: Pull Shape: circle
+[12/8/2015 1:13:26 PM]: MOBILE GESTURE Type: Pinch Direction: Pull Shape: circle
+[12/8/2015 1:13:27 PM]: KINECT GESTURE Type: Pinch Direction: Pull Shape:  Pointer: X = 497.846446320415 Y = 0 Cell: X = 8 Y = 0
+[12/8/2015 1:13:31 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 631.544961567968 Y = 410.967605963307 Cell: X = 10 Y = 6
+[12/8/2015 1:13:33 PM]: KINECT GESTURE Type: Pinch Direction: Pull Shape:  Pointer: X = 551.55663933605 Y = 0 Cell: X = 9 Y = 0
+[12/8/2015 1:13:33 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 233.700927734375 Y = 0 Cell: X = 3 Y = 0
+[12/8/2015 1:13:34 PM]: MOBILE GESTURE Type: Pinch Direction: Pull Shape: circle
+[12/8/2015 1:13:35 PM]: MOBILE GESTURE Type: Pinch Direction: Pull Shape: circle
+[12/8/2015 1:13:36 PM]: KINECT GESTURE Type: Pinch Direction: Pull Shape:  Pointer: X = 502.928879767656 Y = 0 Cell: X = 8 Y = 0
+[12/8/2015 1:13:41 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 1147.66227018833 Y = 65.887037903512 Cell: X = 18 Y = 1
+[12/8/2015 1:13:43 PM]: KINECT GESTURE Type: Pinch Direction: Pull Shape:  Pointer: X = 688.903414323926 Y = 0 Cell: X = 5 Y = 0
+[12/8/2015 1:13:43 PM]: KINECT GESTURE Type: Pinch Direction: Pull Shape:  Pointer: X = 602.159268302843 Y = 0 Cell: X = 4 Y = 0
+[12/8/2015 1:13:44 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 318.451031208038 Y = 0 Cell: X = 2 Y = 0
+[12/8/2015 1:13:44 PM]: MOBILE GESTURE Type: Pinch Direction: Pull Shape: circle
+[12/8/2015 1:13:45 PM]: KINECT GESTURE Type: Pinch Direction: Pull Shape:  Pointer: X = 416.688177585602 Y = 0 Cell: X = 3 Y = 0
+[12/8/2015 1:13:48 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 278.344068706036 Y = 298.919255556658 Cell: X = 2 Y = 2
+[12/8/2015 1:13:51 PM]: MOBILE GESTURE Type: Pinch Direction: Pull Shape: circle
+[12/8/2015 1:13:52 PM]: KINECT GESTURE Type: Pinch Direction: Pull Shape:  Pointer: X = 439.299513846636 Y = 0 Cell: X = 7 Y = 0
+[12/8/2015 1:13:56 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 519.827807039022 Y = 22.4088324572979 Cell: X = 8 Y = 0
+[12/8/2015 1:14:00 PM]: MOBILE GESTURE Type: Pinch Direction: Pull Shape: square
+[12/8/2015 1:14:01 PM]: KINECT GESTURE Type: Pinch Direction: Pull Shape:  Pointer: X = 527.891094192863 Y = 9.48396703771323 Cell: X = 8 Y = 0
+[12/8/2015 1:14:06 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 971.392998695374 Y = 468.600714029283 Cell: X = 16 Y = 7
+[12/8/2015 1:14:09 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 303.118734955788 Y = 0 Cell: X = 4 Y = 0
+[12/8/2015 1:14:11 PM]: MOBILE GESTURE Type: Pinch Direction: Pull Shape: square
+[12/8/2015 1:14:12 PM]: KINECT GESTURE Type: Pinch Direction: Pull Shape:  Pointer: X = 452.648367166519 Y = 6.5142758860689 Cell: X = 7 Y = 0
+[12/8/2015 1:14:16 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 152.519549012184 Y = 151.094399203499 Cell: X = 2 Y = 2
+[12/8/2015 1:14:18 PM]: KINECT GESTURE Type: Pinch Direction: Pull Shape:  Pointer: X = 479.73189753294 Y = 0 Cell: X = 3 Y = 0
+[12/8/2015 1:14:18 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 502.371047183871 Y = 0 Cell: X = 4 Y = 0
+[12/8/2015 1:14:19 PM]: MOBILE GESTURE Type: Pinch Direction: Pull Shape: square
+[12/8/2015 1:14:20 PM]: MOBILE GESTURE Type: Pinch Direction: Pull Shape: square
+[12/8/2015 1:14:20 PM]: MOBILE GESTURE Type: Pinch Direction: Pull Shape: square
+[12/8/2015 1:14:21 PM]: KINECT GESTURE Type: Pinch Direction: Pull Shape:  Pointer: X = 499.641807422042 Y = 0 Cell: X = 4 Y = 0
+[12/8/2015 1:14:23 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 679.366478800774 Y = 428.61293642064 Cell: X = 5 Y = 3
+[12/8/2015 1:14:26 PM]: KINECT GESTURE Type: Pinch Direction: Pull Shape:  Pointer: X = 561.281837590039 Y = 15.5126783095939 Cell: X = 9 Y = 0
+[12/8/2015 1:14:26 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 344.451566964388 Y = 0 Cell: X = 5 Y = 0
+[12/8/2015 1:14:27 PM]: MOBILE GESTURE Type: Pinch Direction: Pull Shape: square
+[12/8/2015 1:14:28 PM]: KINECT GESTURE Type: Pinch Direction: Pull Shape:  Pointer: X = 626.029953025281 Y = 131.218941222024 Cell: X = 10 Y = 2
+[12/8/2015 1:14:31 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 953.338807225227 Y = 228.728442804527 Cell: X = 15 Y = 3
+[12/8/2015 1:14:32 PM]: KINECT GESTURE Type: Pinch Direction: Pull Shape:  Pointer: X = 740.701470702887 Y = 52.109685216397 Cell: X = 6 Y = 0
+[12/8/2015 1:14:33 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 319.52060303092 Y = 0 Cell: X = 2 Y = 0
+[12/8/2015 1:14:35 PM]: MOBILE GESTURE Type: Pinch Direction: Pull Shape: circle
+[12/8/2015 1:14:35 PM]: MOBILE GESTURE Type: Pinch Direction: Pull Shape: circle
+[12/8/2015 1:14:36 PM]: KINECT GESTURE Type: Pinch Direction: Pull Shape:  Pointer: X = 478.098695278168 Y = 0 Cell: X = 3 Y = 0
+[12/8/2015 1:14:39 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 691.537337824702 Y = 428.264919415664 Cell: X = 5 Y = 3
+[12/8/2015 1:14:44 PM]: KINECT GESTURE Type: Pinch Direction: Pull Shape:  Pointer: X = 426.818727731705 Y = 0 Cell: X = 3 Y = 0
+[12/8/2015 1:14:48 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 162.683203876019 Y = 69.8535467401302 Cell: X = 1 Y = 0
+[12/8/2015 1:14:50 PM]: KINECT GESTURE Type: Pinch Direction: Pull Shape:  Pointer: X = 428.53852686286 Y = 0 Cell: X = 3 Y = 0
+[12/8/2015 1:14:50 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 320.48548796773 Y = 0 Cell: X = 2 Y = 0
+[12/8/2015 1:14:51 PM]: MOBILE GESTURE Type: Pinch Direction: Pull Shape: circle
+[12/8/2015 1:14:51 PM]: KINECT GESTURE Type: Pinch Direction: Pull Shape:  Pointer: X = 348.714513927698 Y = 0 Cell: X = 2 Y = 0
+[12/8/2015 1:14:55 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 169.046762764454 Y = 51.3587377317589 Cell: X = 1 Y = 0
+[12/8/2015 1:14:57 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 112.592111766338 Y = 0 Cell: X = 0 Y = 0
+[12/8/2015 1:14:57 PM]: MOBILE GESTURE Type: Pinch Direction: Pull Shape: circle
+[12/8/2015 1:14:58 PM]: MOBILE GESTURE Type: Pinch Direction: Pull Shape: circle
+[12/8/2015 1:14:59 PM]: KINECT GESTURE Type: Pinch Direction: Pull Shape:  Pointer: X = 503.903469994664 Y = 0 Cell: X = 4 Y = 0
+[12/8/2015 1:15:01 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 523.984294295311 Y = 192.180358331675 Cell: X = 4 Y = 1
+[12/8/2015 1:15:11 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 206.740590333939 Y = 0 Cell: X = 1 Y = 0
+[12/8/2015 1:15:20 PM]: KINECT GESTURE Type: Pinch Direction: Pull Shape:  Pointer: X = 0 Y = 0 Cell: X = 0 Y = 0
+[12/8/2015 1:15:20 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 1039.47413510084 Y = 0 Cell: X = 8 Y = 0
+[12/8/2015 1:15:21 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 423.778484523296 Y = 0 Cell: X = 3 Y = 0
+[12/8/2015 1:15:22 PM]: KINECT GESTURE Type: Pinch Direction: Pull Shape:  Pointer: X = 1214 Y = 0 Cell: X = 9 Y = 0
+[12/8/2015 1:15:22 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: circle
+[12/8/2015 1:15:22 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: circle
+[12/8/2015 1:15:24 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: circle
+[12/8/2015 1:15:39 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 0 Y = 176.073625665853 Cell: X = 0 Y = 1
+[12/8/2015 1:15:40 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 0 Y = 0 Cell: X = 0 Y = 0
+[12/8/2015 1:15:40 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 0 Y = 245.081230416435 Cell: X = 0 Y = 1
+[12/8/2015 1:15:47 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 1214 Y = 0 Cell: X = 9 Y = 0
+[12/8/2015 1:15:54 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 1214 Y = 0 Cell: X = 9 Y = 0
+[12/8/2015 1:15:55 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 1214 Y = 0 Cell: X = 9 Y = 0
+[12/8/2015 1:15:58 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 1214 Y = 0 Cell: X = 9 Y = 0
+[12/8/2015 1:16:08 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 1214 Y = 0 Cell: X = 9 Y = 0
+[12/8/2015 1:16:12 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 0 Y = 158.310251472006 Cell: X = 0 Y = 1
+[12/8/2015 1:16:16 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 1214 Y = 0 Cell: X = 9 Y = 0
+[12/8/2015 1:16:27 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 1214 Y = 0 Cell: X = 9 Y = 0
+[12/8/2015 1:16:39 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 1214 Y = 0 Cell: X = 9 Y = 0
+[12/8/2015 1:16:40 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 1214 Y = 0 Cell: X = 9 Y = 0
+[12/8/2015 1:16:42 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 1214 Y = 376.431283937396 Cell: X = 9 Y = 3
+[12/8/2015 1:16:42 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 1214 Y = 0 Cell: X = 9 Y = 0
+[12/8/2015 1:16:43 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 0 Y = 0 Cell: X = 0 Y = 0
+[12/8/2015 1:16:44 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 0 Y = 0 Cell: X = 0 Y = 0
+[12/8/2015 1:16:44 PM]: KINECT GESTURE Type: Pinch Direction: Pull Shape:  Pointer: X = 1214 Y = 0 Cell: X = 9 Y = 0
+[12/8/2015 1:16:44 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 1214 Y = 0 Cell: X = 9 Y = 0
+[12/8/2015 1:16:45 PM]: KINECT GESTURE Type: Throw Direction: Push Shape:  Pointer: X = 1214 Y = 0 Cell: X = 9 Y = 0
+[12/8/2015 1:16:45 PM]: KINECT GESTURE Type: Pinch Direction: Pull Shape:  Pointer: X = 1214 Y = 0 Cell: X = 9 Y = 0
+[12/8/2015 1:16:46 PM]: KINECT GESTURE Type: Throw Direction: Push Shape:  Pointer: X = 1214 Y = 0 Cell: X = 9 Y = 0
+[12/8/2015 1:16:46 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 1214 Y = 0 Cell: X = 9 Y = 0
+[12/8/2015 1:16:46 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: circle
+[12/8/2015 1:16:47 PM]: KINECT GESTURE Type: Pinch Direction: Pull Shape:  Pointer: X = 813.251653552055 Y = 0 Cell: X = 6 Y = 0
+[12/8/2015 1:16:48 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 0 Y = 0 Cell: X = 0 Y = 0
+[12/8/2015 1:16:48 PM]: KINECT GESTURE Type: Pinch Direction: Pull Shape:  Pointer: X = 0 Y = 0 Cell: X = 0 Y = 0
+[12/8/2015 1:16:49 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 0 Y = 0 Cell: X = 0 Y = 0
+[12/8/2015 1:16:53 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 502.477117955685 Y = 0 Cell: X = 4 Y = 0
+[12/8/2015 1:16:57 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 710.914180353284 Y = 0 Cell: X = 5 Y = 0
+[12/8/2015 1:17:29 PM]: KINECT GESTURE Type: Pinch Direction: Pull Shape:  Pointer: X = 710.68820899725 Y = 0 Cell: X = 5 Y = 0
+[12/8/2015 1:17:29 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 954.352499008179 Y = 0 Cell: X = 7 Y = 0
+[12/8/2015 1:17:42 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 258.843291521072 Y = 0 Cell: X = 2 Y = 0
+[12/8/2015 1:17:42 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: circle
+[12/8/2015 1:17:44 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: circle
+[12/8/2015 1:18:02 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: square
+[12/8/2015 1:18:02 PM]: KINECT GESTURE Type: Throw Direction: Push Shape:  Pointer: X = 860.82351282239 Y = 0 Cell: X = 7 Y = 0
+[12/8/2015 1:18:10 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: circle
+[12/8/2015 1:18:11 PM]: KINECT GESTURE Type: Pinch Direction: Pull Shape:  Pointer: X = 1118.42932105064 Y = 0 Cell: X = 9 Y = 0
+[12/8/2015 1:18:11 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 1214 Y = 0 Cell: X = 9 Y = 0
+[12/8/2015 1:18:26 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: circle
+[12/8/2015 1:18:31 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: circle
+[12/8/2015 1:18:31 PM]: KINECT GESTURE Type: Pinch Direction: Pull Shape:  Pointer: X = 558.977685920894 Y = 94.6278285843713 Cell: X = 4 Y = 0
+[12/8/2015 1:18:32 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: circle
+[12/8/2015 1:18:38 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: circle
+[12/8/2015 1:18:39 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: circle
+[12/8/2015 1:18:43 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: circle
+[12/8/2015 1:18:44 PM]: KINECT GESTURE Type: Throw Direction: Push Shape:  Pointer: X = 262.351016759872 Y = 517.57002061633 Cell: X = 2 Y = 4
+[12/8/2015 1:18:55 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: square
+[12/8/2015 1:18:55 PM]: KINECT GESTURE Type: Throw Direction: Push Shape:  Pointer: X = 1134.56398159266 Y = 30.4822393053216 Cell: X = 18 Y = 0
+[12/8/2015 1:19:04 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: circle
+[12/8/2015 1:19:04 PM]: KINECT GESTURE Type: Throw Direction: Push Shape:  Pointer: X = 945.820888638496 Y = 210.530062749938 Cell: X = 15 Y = 3
+[12/8/2015 1:19:12 PM]: KINECT GESTURE Type: Throw Direction: Push Shape:  Pointer: X = 394.938577026129 Y = 460.270510589453 Cell: X = 6 Y = 7
+[12/8/2015 1:19:12 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: circle
+[12/8/2015 1:19:20 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: circle
+[12/8/2015 1:19:20 PM]: KINECT GESTURE Type: Throw Direction: Push Shape:  Pointer: X = 211.892371833324 Y = 167.628123283501 Cell: X = 3 Y = 2
+[12/8/2015 1:19:21 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: circle
+[12/8/2015 1:19:28 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: square
+[12/8/2015 1:19:29 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: square
+[12/8/2015 1:19:38 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: square
+[12/8/2015 1:19:38 PM]: KINECT GESTURE Type: Throw Direction: Push Shape:  Pointer: X = 796.285232454538 Y = 77.7277976701919 Cell: X = 6 Y = 0
+[12/8/2015 1:19:40 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: square
+[12/8/2015 1:19:48 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: circle
+[12/8/2015 1:19:49 PM]: KINECT GESTURE Type: Pinch Direction: Pull Shape:  Pointer: X = 783.81009042263 Y = 0 Cell: X = 12 Y = 0
+[12/8/2015 1:19:53 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: circle
+[12/8/2015 1:19:54 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: circle
+[12/8/2015 1:19:55 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: circle
+[12/8/2015 1:19:59 PM]: KINECT GESTURE Type: Throw Direction: Push Shape:  Pointer: X = 398.251997470856 Y = 331.638641075087 Cell: X = 6 Y = 5
+[12/8/2015 1:20:00 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: circle
+[12/8/2015 1:20:10 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: square
+[12/8/2015 1:20:10 PM]: KINECT GESTURE Type: Throw Direction: Push Shape:  Pointer: X = 1028.13162666559 Y = 417.004630793916 Cell: X = 8 Y = 3
+[12/8/2015 1:20:11 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: square
+[12/8/2015 1:20:20 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: square
+[12/8/2015 1:20:25 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: square
+[12/8/2015 1:20:30 PM]: KINECT GESTURE Type: Throw Direction: Push Shape:  Pointer: X = 215.874272406101 Y = 220.59959463682 Cell: X = 3 Y = 3
+[12/8/2015 1:20:31 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: square
+[12/8/2015 1:20:40 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: circle
+[12/8/2015 1:20:44 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: circle
+[12/8/2015 1:20:45 PM]: KINECT GESTURE Type: Throw Direction: Push Shape:  Pointer: X = 380.690903484821 Y = 514.362939973994 Cell: X = 6 Y = 8
+[12/8/2015 1:20:46 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: circle
+[12/8/2015 1:20:53 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: square
+[12/8/2015 1:20:54 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: square
+[12/8/2015 1:20:56 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: square
+[12/8/2015 1:21:00 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: square
+[12/8/2015 1:21:01 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 436.02911144495 Y = 92.088401485898 Cell: X = 3 Y = 0
+[12/8/2015 1:21:02 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: square
+[12/8/2015 1:21:04 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: square
+[12/8/2015 1:21:04 PM]: KINECT GESTURE Type: Throw Direction: Push Shape:  Pointer: X = 36.0157259106636 Y = 180.773874240155 Cell: X = 0 Y = 1
+[12/8/2015 1:21:13 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: square
+[12/8/2015 1:21:14 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: square
+[12/8/2015 1:21:17 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: square
+[12/8/2015 1:21:17 PM]: KINECT GESTURE Type: Pinch Direction: Pull Shape:  Pointer: X = 772.155312240124 Y = 0 Cell: X = 12 Y = 0
+[12/8/2015 1:21:18 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: square
+[12/8/2015 1:21:22 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: square
+[12/8/2015 1:21:22 PM]: KINECT GESTURE Type: Pinch Direction: Pull Shape:  Pointer: X = 786.500635653734 Y = 33.8957953162669 Cell: X = 12 Y = 0
+[12/8/2015 1:21:23 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: square
+[12/8/2015 1:21:28 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: square
+[12/8/2015 1:21:29 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: square
+[12/8/2015 1:21:30 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: square
+[12/8/2015 1:21:33 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: square
+[12/8/2015 1:21:33 PM]: KINECT GESTURE Type: Pinch Direction: Pull Shape:  Pointer: X = 712.773272559047 Y = 0 Cell: X = 11 Y = 0
+[12/8/2015 1:21:38 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: square
+[12/8/2015 1:21:39 PM]: KINECT GESTURE Type: Pinch Direction: Pull Shape:  Pointer: X = 652.038697123528 Y = 0 Cell: X = 10 Y = 0
+[12/8/2015 1:21:44 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: square
+[12/8/2015 1:21:48 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: square
+[12/8/2015 1:21:49 PM]: KINECT GESTURE Type: Pinch Direction: Pull Shape:  Pointer: X = 645.732121765614 Y = 0 Cell: X = 10 Y = 0
+[12/8/2015 1:21:52 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: square
+[12/8/2015 1:21:52 PM]: KINECT GESTURE Type: Throw Direction: Push Shape:  Pointer: X = 361.644963413477 Y = 11.9189688006353 Cell: X = 5 Y = 0
+[12/8/2015 1:22:01 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: square
+[12/8/2015 1:22:02 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: square
+[12/8/2015 1:22:05 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: square
+[12/8/2015 1:22:06 PM]: KINECT GESTURE Type: Pinch Direction: Pull Shape:  Pointer: X = 1145.94328510761 Y = 85.8050401918719 Cell: X = 18 Y = 1
+[12/8/2015 1:22:07 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: square
+[12/8/2015 1:22:12 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: square
+[12/8/2015 1:22:13 PM]: KINECT GESTURE Type: Pinch Direction: Pull Shape:  Pointer: X = 1141.02989375591 Y = 92.455869579072 Cell: X = 18 Y = 1
+[12/8/2015 1:22:14 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: square
+[12/8/2015 1:22:19 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: square
+[12/8/2015 1:22:20 PM]: KINECT GESTURE Type: Pinch Direction: Pull Shape:  Pointer: X = 1206.26406061649 Y = 91.3431723220778 Cell: X = 19 Y = 1
+[12/8/2015 1:22:20 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: square
+[12/8/2015 1:22:24 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: square
+[12/8/2015 1:22:28 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: square
+[12/8/2015 1:22:28 PM]: KINECT GESTURE Type: Pinch Direction: Pull Shape:  Pointer: X = 1149.97826176882 Y = 90.9168671063961 Cell: X = 18 Y = 1
+[12/8/2015 1:22:34 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: square
+[12/8/2015 1:22:34 PM]: KINECT GESTURE Type: Throw Direction: Push Shape:  Pointer: X = 892.660790205002 Y = 264.592514937268 Cell: X = 14 Y = 4
+[12/8/2015 1:22:35 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: square
+[12/8/2015 1:22:42 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: circle
+[12/8/2015 1:22:43 PM]: KINECT GESTURE Type: Pinch Direction: Pull Shape:  Pointer: X = 472.120390281081 Y = 136.903902236 Cell: X = 3 Y = 1
+[12/8/2015 1:22:44 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: circle
+[12/8/2015 1:22:45 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: circle
+[12/8/2015 1:22:45 PM]: KINECT GESTURE Type: Pinch Direction: Pull Shape:  Pointer: X = 794.214125335217 Y = 0 Cell: X = 6 Y = 0
+[12/8/2015 1:22:49 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: circle
+[12/8/2015 1:22:49 PM]: KINECT GESTURE Type: Pinch Direction: Pull Shape:  Pointer: X = 485.732796952128 Y = 72.6994230499423 Cell: X = 4 Y = 0
+[12/8/2015 1:22:50 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: circle
+[12/8/2015 1:22:53 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: circle
+[12/8/2015 1:22:54 PM]: KINECT GESTURE Type: Pinch Direction: Pull Shape:  Pointer: X = 551.553659006953 Y = 73.2134033198871 Cell: X = 4 Y = 0
+[12/8/2015 1:22:54 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: circle
+[12/8/2015 1:22:57 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: circle
+[12/8/2015 1:22:58 PM]: KINECT GESTURE Type: Pinch Direction: Pull Shape:  Pointer: X = 561.894704505801 Y = 59.2131065002077 Cell: X = 4 Y = 0
+[12/8/2015 1:22:59 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: circle
+[12/8/2015 1:23:02 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: circle
+[12/8/2015 1:23:02 PM]: KINECT GESTURE Type: Pinch Direction: Pull Shape:  Pointer: X = 708.779215499759 Y = 0 Cell: X = 5 Y = 0
+[12/8/2015 1:23:03 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: circle
+[12/8/2015 1:23:06 PM]: KINECT GESTURE Type: Throw Direction: Push Shape:  Pointer: X = 96.2164922952652 Y = 542.000147521501 Cell: X = 0 Y = 4
+[12/8/2015 1:23:19 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: square
+[12/8/2015 1:23:20 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: square
+[12/8/2015 1:23:21 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: square
+[12/8/2015 1:23:22 PM]: KINECT GESTURE Type: Pinch Direction: Pull Shape:  Pointer: X = 1120.77498024702 Y = 0 Cell: X = 18 Y = 0
+[12/8/2015 1:23:25 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: square
+[12/8/2015 1:23:25 PM]: KINECT GESTURE Type: Throw Direction: Push Shape:  Pointer: X = 865.864818632603 Y = 398.527953261245 Cell: X = 14 Y = 6
+[12/8/2015 1:23:30 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: square
+[12/8/2015 1:23:31 PM]: KINECT GESTURE Type: Pinch Direction: Pull Shape:  Pointer: X = 803.209889173508 Y = 0 Cell: X = 6 Y = 0
+[12/8/2015 1:23:32 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: square
+[12/8/2015 1:23:32 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: square
+[12/8/2015 1:23:33 PM]: KINECT GESTURE Type: Pinch Direction: Pull Shape:  Pointer: X = 733.756173282862 Y = 0 Cell: X = 6 Y = 0
+[12/8/2015 1:23:37 PM]: KINECT GESTURE Type: Throw Direction: Push Shape:  Pointer: X = 269.898675322533 Y = 153.588273278595 Cell: X = 2 Y = 1
+[12/8/2015 1:23:38 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: square
+[12/8/2015 1:23:46 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: circle
+[12/8/2015 1:23:46 PM]: KINECT GESTURE Type: Throw Direction: Push Shape:  Pointer: X = 520.169246926904 Y = 411.178092953905 Cell: X = 4 Y = 3
+[12/8/2015 1:23:47 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: circle
+[12/8/2015 1:23:54 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: square
+[12/8/2015 1:23:55 PM]: KINECT GESTURE Type: Throw Direction: Push Shape:  Pointer: X = 955.902125418186 Y = 402.415602055077 Cell: X = 7 Y = 3
+[12/8/2015 1:23:56 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: square
+[12/8/2015 1:24:02 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: circle
+[12/8/2015 1:24:03 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: circle
+[12/8/2015 1:24:06 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: circle
+[12/8/2015 1:24:07 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: circle
+[12/8/2015 1:24:11 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: circle
+[12/8/2015 1:24:11 PM]: KINECT GESTURE Type: Pinch Direction: Pull Shape:  Pointer: X = 1058.77903366089 Y = 0 Cell: X = 17 Y = 0
+[12/8/2015 1:24:12 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: circle
+[12/8/2015 1:24:15 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: circle
+[12/8/2015 1:24:22 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: circle
+[12/8/2015 1:24:24 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: circle
+[12/8/2015 1:24:27 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: circle
+[12/8/2015 1:24:28 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: circle
+[12/8/2015 1:24:32 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: circle
+[12/8/2015 1:24:33 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: circle
+[12/8/2015 1:24:37 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: circle
+[12/8/2015 1:24:37 PM]: KINECT GESTURE Type: Throw Direction: Push Shape:  Pointer: X = 813.17334190011 Y = 77.62733117213 Cell: X = 13 Y = 1
+[12/8/2015 1:24:45 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: square
+[12/8/2015 1:24:46 PM]: KINECT GESTURE Type: Pinch Direction: Pull Shape:  Pointer: X = 720.569560214877 Y = 91.0939942930843 Cell: X = 5 Y = 0
+[12/8/2015 1:24:50 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: square
+[12/8/2015 1:24:51 PM]: KINECT GESTURE Type: Pinch Direction: Pull Shape:  Pointer: X = 719.98741465807 Y = 222.775855578857 Cell: X = 5 Y = 1
+[12/8/2015 1:24:51 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: square
+[12/8/2015 1:24:55 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: square
+[12/8/2015 1:24:55 PM]: KINECT GESTURE Type: Pinch Direction: Pull Shape:  Pointer: X = 774.658897221088 Y = 112.134934031411 Cell: X = 6 Y = 0
+[12/8/2015 1:24:56 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: square
+[12/8/2015 1:25:00 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: square
+[12/8/2015 1:25:01 PM]: KINECT GESTURE Type: Pinch Direction: Pull Shape:  Pointer: X = 636.152464423329 Y = 161.200079675366 Cell: X = 5 Y = 1
+[12/8/2015 1:25:01 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: square
+[12/8/2015 1:25:05 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: square
+[12/8/2015 1:25:05 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 679.773133173585 Y = 291.211036621382 Cell: X = 5 Y = 2
+[12/8/2015 1:25:06 PM]: KINECT GESTURE Type: Pinch Direction: Pull Shape:  Pointer: X = 882.565660297871 Y = 0 Cell: X = 7 Y = 0
+[12/8/2015 1:25:06 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: square
+[12/8/2015 1:25:14 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: square
+[12/8/2015 1:25:15 PM]: KINECT GESTURE Type: Pinch Direction: Pull Shape:  Pointer: X = 758.359626635909 Y = 94.7494440720428 Cell: X = 6 Y = 0
+[12/8/2015 1:25:17 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: square
+[12/8/2015 1:25:18 PM]: KINECT GESTURE Type: Pinch Direction: Pull Shape:  Pointer: X = 678.382658146322 Y = 145.432786533293 Cell: X = 5 Y = 1
+[12/8/2015 1:25:18 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: square
+[12/8/2015 1:25:22 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: square
+[12/8/2015 1:25:23 PM]: KINECT GESTURE Type: Pinch Direction: Pull Shape:  Pointer: X = 665.683195471764 Y = 118.258886135867 Cell: X = 5 Y = 0
+[12/8/2015 1:25:23 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: square
+[12/8/2015 1:25:26 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: square
+[12/8/2015 1:25:27 PM]: KINECT GESTURE Type: Pinch Direction: Pull Shape:  Pointer: X = 661.569463953376 Y = 0 Cell: X = 5 Y = 0
+[12/8/2015 1:25:33 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: square
+[12/8/2015 1:25:35 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: square
+[12/8/2015 1:25:38 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: square
+[12/8/2015 1:25:38 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: square
+[12/8/2015 1:25:39 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: square
+[12/8/2015 1:25:46 PM]: KINECT GESTURE Type: Throw Direction: Push Shape:  Pointer: X = 321.445181071758 Y = 432.883167269438 Cell: X = 2 Y = 3
+[12/8/2015 1:25:53 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: square
+[12/8/2015 1:25:54 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 1214 Y = 0 Cell: X = 9 Y = 0
+[12/8/2015 1:25:56 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 1214 Y = 0 Cell: X = 9 Y = 0
+[12/8/2015 1:25:57 PM]: KINECT GESTURE Type: Pinch Direction: Pull Shape:  Pointer: X = 1214 Y = 0 Cell: X = 9 Y = 0
+[12/8/2015 1:25:57 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 1214 Y = 87.6671189933417 Cell: X = 9 Y = 0
+[12/8/2015 1:25:58 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 1214 Y = 0 Cell: X = 9 Y = 0
+[12/8/2015 1:26:00 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 317.395497232676 Y = 6.7068689312153 Cell: X = 2 Y = 0
+[12/8/2015 1:26:04 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: square
+[12/8/2015 1:26:06 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 1214 Y = 0 Cell: X = 9 Y = 0
+[12/8/2015 1:26:42 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: square
+[12/8/2015 1:26:44 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: square
+[12/8/2015 1:26:45 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: square
+[12/8/2015 1:26:45 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 1214 Y = 0 Cell: X = 9 Y = 0
+[12/8/2015 1:26:46 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: square
+[12/8/2015 1:26:50 PM]: KINECT GESTURE Type: Pinch Direction: Pull Shape:  Pointer: X = 747.28731058538 Y = 0 Cell: X = 6 Y = 0
+[12/8/2015 1:26:51 PM]: KINECT GESTURE Type: Pinch Direction: Pull Shape:  Pointer: X = 805.665535628796 Y = 0 Cell: X = 6 Y = 0
+[12/8/2015 1:26:52 PM]: KINECT GESTURE Type: Pinch Direction: Pull Shape:  Pointer: X = 198.563544154167 Y = 0 Cell: X = 1 Y = 0
+[12/8/2015 1:26:55 PM]: KINECT GESTURE Type: Pinch Direction: Pull Shape:  Pointer: X = 721.945784837008 Y = 0 Cell: X = 5 Y = 0
+[12/8/2015 1:26:55 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 914.785487115383 Y = 0 Cell: X = 7 Y = 0
+[12/8/2015 1:26:56 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 1214 Y = 0 Cell: X = 9 Y = 0
+[12/8/2015 1:26:56 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 1214 Y = 0 Cell: X = 9 Y = 0
+[12/8/2015 1:26:57 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 1214 Y = 0 Cell: X = 9 Y = 0
+[12/8/2015 1:26:57 PM]: KINECT GESTURE Type: Pinch Direction: Pull Shape:  Pointer: X = 1103.27264261246 Y = 0 Cell: X = 9 Y = 0
+[12/8/2015 1:26:59 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: square
+[12/8/2015 1:26:59 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 1035.15463876724 Y = 0 Cell: X = 8 Y = 0
+[12/8/2015 1:27:00 PM]: KINECT GESTURE Type: Pinch Direction: Pull Shape:  Pointer: X = 1080.82800579071 Y = 0 Cell: X = 8 Y = 0
+[12/8/2015 1:27:00 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 1211.40813577175 Y = 0 Cell: X = 9 Y = 0
+[12/8/2015 1:27:01 PM]: KINECT GESTURE Type: Pinch Direction: Pull Shape:  Pointer: X = 1004.07115399837 Y = 0 Cell: X = 8 Y = 0
+[12/8/2015 1:27:02 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 973.665610432625 Y = 0 Cell: X = 8 Y = 0
+[12/8/2015 1:27:08 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 639.98277297616 Y = 0 Cell: X = 5 Y = 0
+[12/8/2015 1:27:47 PM]: KINECT GESTURE Type: Pinch Direction: Pull Shape:  Pointer: X = 631.493242230266 Y = 0 Cell: X = 5 Y = 0
+[12/8/2015 1:27:50 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 592.333864962682 Y = 154.275896958237 Cell: X = 4 Y = 1
+[12/8/2015 1:27:52 PM]: KINECT GESTURE Type: Pinch Direction: Pull Shape:  Pointer: X = 597.177531763911 Y = 121.44773853092 Cell: X = 4 Y = 0
+[12/8/2015 1:27:52 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 586.068615101278 Y = 121.449234091749 Cell: X = 4 Y = 0
+[12/8/2015 1:27:53 PM]: KINECT GESTURE Type: Pinch Direction: Pull Shape:  Pointer: X = 577.587023608387 Y = 115.031448271419 Cell: X = 4 Y = 0
+[12/8/2015 1:27:53 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 553.336076706648 Y = 137.686713963718 Cell: X = 4 Y = 1
+[12/8/2015 1:27:53 PM]: KINECT GESTURE Type: Pinch Direction: Pull Shape:  Pointer: X = 537.745875708759 Y = 185.688040797547 Cell: X = 4 Y = 1
+[12/8/2015 1:27:54 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 538.997252129018 Y = 171.015102298768 Cell: X = 4 Y = 1
+[12/8/2015 1:27:58 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: square
+[12/8/2015 1:28:02 PM]: KINECT GESTURE Type: Pinch Direction: Pull Shape:  Pointer: X = 335.616062521935 Y = 189.14557509429 Cell: X = 2 Y = 1
+[12/8/2015 1:28:19 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: square
+[12/8/2015 1:28:24 PM]: KINECT GESTURE Type: Pinch Direction: Pull Shape:  Pointer: X = 796.752823024988 Y = 0 Cell: X = 13 Y = 0
+[12/8/2015 1:28:26 PM]: KINECT GESTURE Type: Pinch Direction: Pull Shape:  Pointer: X = 1016.67099046707 Y = 55.1105192229572 Cell: X = 16 Y = 0
+[12/8/2015 1:28:32 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: circle
+[12/8/2015 1:28:43 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 331.140413224697 Y = 245.573885748437 Cell: X = 2 Y = 1
+[12/8/2015 1:28:44 PM]: KINECT GESTURE Type: Pinch Direction: Pull Shape:  Pointer: X = 348.059800297022 Y = 248.802058197175 Cell: X = 2 Y = 2
+[12/8/2015 1:28:48 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 288.870283544064 Y = 263.50181562059 Cell: X = 2 Y = 2
+[12/8/2015 1:28:48 PM]: KINECT GESTURE Type: Pinch Direction: Pull Shape:  Pointer: X = 312.0736515522 Y = 248.439543049571 Cell: X = 2 Y = 2
+[12/8/2015 1:28:55 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: square
+[12/8/2015 1:28:57 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 573.151791915298 Y = 0 Cell: X = 4 Y = 0
+[12/8/2015 1:29:01 PM]: KINECT GESTURE Type: Pinch Direction: Pull Shape:  Pointer: X = 834.971948295832 Y = 0 Cell: X = 6 Y = 0
+[12/8/2015 1:29:08 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: circle
+[12/8/2015 1:29:13 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 797.997162431479 Y = 299.813623475955 Cell: X = 13 Y = 4
+[12/8/2015 1:29:18 PM]: KINECT GESTURE Type: Pinch Direction: Pull Shape:  Pointer: X = 808.988760858774 Y = 491.331092064879 Cell: X = 13 Y = 8
+[12/8/2015 1:29:19 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 807.805493324995 Y = 473.956686850481 Cell: X = 13 Y = 7
+[12/8/2015 1:29:22 PM]: KINECT GESTURE Type: Pinch Direction: Pull Shape:  Pointer: X = 787.893819659948 Y = 500.82837839139 Cell: X = 12 Y = 8
+[12/8/2015 1:29:22 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: square
+[12/8/2015 1:29:24 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 806.712169319391 Y = 466.858192119991 Cell: X = 13 Y = 7
+[12/8/2015 1:29:24 PM]: KINECT GESTURE Type: Pinch Direction: Pull Shape:  Pointer: X = 763.435167789459 Y = 306.425968564051 Cell: X = 12 Y = 4
+[12/8/2015 1:29:26 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 673.291595764458 Y = 0 Cell: X = 11 Y = 0
+[12/8/2015 1:29:26 PM]: KINECT GESTURE Type: Pinch Direction: Pull Shape:  Pointer: X = 817.487049430609 Y = 0 Cell: X = 13 Y = 0
+[12/8/2015 1:29:36 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: square
+[12/8/2015 1:29:39 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 486.09285145998 Y = 10.21070403175 Cell: X = 4 Y = 0
+[12/8/2015 1:29:40 PM]: KINECT GESTURE Type: Pinch Direction: Pull Shape:  Pointer: X = 400.640041559935 Y = 25.3906816387426 Cell: X = 3 Y = 0
+[12/8/2015 1:29:44 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: square
+[12/8/2015 1:29:45 PM]: KINECT GESTURE Type: Pinch Direction: Pull Shape:  Pointer: X = 414.422801852226 Y = 53.7453009186451 Cell: X = 6 Y = 0
+[12/8/2015 1:29:47 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 756.163011029363 Y = 177.100081847496 Cell: X = 12 Y = 2
+[12/8/2015 1:29:55 PM]: KINECT GESTURE Type: Pinch Direction: Pull Shape:  Pointer: X = 741.574621200562 Y = 420.752523826958 Cell: X = 12 Y = 6
+[12/8/2015 1:29:59 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 725.844751760364 Y = 420.833116960823 Cell: X = 11 Y = 6
+[12/8/2015 1:30:00 PM]: KINECT GESTURE Type: Pinch Direction: Pull Shape:  Pointer: X = 747.382934376597 Y = 428.416850801086 Cell: X = 12 Y = 6
+[12/8/2015 1:30:04 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: circle
+[12/8/2015 1:30:05 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 776.982088625431 Y = 293.223689806757 Cell: X = 12 Y = 4
+[12/8/2015 1:30:08 PM]: KINECT GESTURE Type: Pinch Direction: Pull Shape:  Pointer: X = 170.576345443726 Y = 183.051630978002 Cell: X = 2 Y = 2
+[12/8/2015 1:30:14 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: square
+[12/8/2015 1:30:15 PM]: KINECT GESTURE Type: Pinch Direction: Pull Shape:  Pointer: X = 239.74888831377 Y = 189.85862330803 Cell: X = 1 Y = 1
+[12/8/2015 1:30:23 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 1030.75854933262 Y = 377.544627804513 Cell: X = 8 Y = 3
+[12/8/2015 1:30:24 PM]: KINECT GESTURE Type: Pinch Direction: Pull Shape:  Pointer: X = 1030.05528211594 Y = 383.975407409224 Cell: X = 8 Y = 3
+[12/8/2015 1:30:27 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: circle
+[12/8/2015 1:30:34 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: circle
+[12/8/2015 1:30:38 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: circle
+[12/8/2015 1:30:45 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: circle
+[12/8/2015 1:30:49 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: circle
+[12/8/2015 1:30:54 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 913.841441869736 Y = 273.525370008741 Cell: X = 7 Y = 2
+[12/8/2015 1:30:55 PM]: KINECT GESTURE Type: Pinch Direction: Pull Shape:  Pointer: X = 940.99403989315 Y = 273.548245491367 Cell: X = 7 Y = 2
+[12/8/2015 1:30:56 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 944.210371255875 Y = 278.920970793207 Cell: X = 7 Y = 2
+[12/8/2015 1:30:56 PM]: KINECT GESTURE Type: Pinch Direction: Pull Shape:  Pointer: X = 929.698674023151 Y = 306.942440014962 Cell: X = 7 Y = 2
+[12/8/2015 1:30:58 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 925.522197306156 Y = 296.938996108877 Cell: X = 7 Y = 2
+[12/8/2015 1:30:58 PM]: KINECT GESTURE Type: Pinch Direction: Pull Shape:  Pointer: X = 900.736514240503 Y = 323.522705315657 Cell: X = 7 Y = 2
+[12/8/2015 1:31:00 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 926.634515821934 Y = 314.357701814457 Cell: X = 7 Y = 2
+[12/8/2015 1:31:00 PM]: KINECT GESTURE Type: Pinch Direction: Pull Shape:  Pointer: X = 919.45506131649 Y = 329.369903888653 Cell: X = 7 Y = 2
+[12/8/2015 1:31:00 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: circle
+[12/8/2015 1:31:02 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: circle
+[12/8/2015 1:31:07 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 638.089705470949 Y = 307.516309386001 Cell: X = 5 Y = 2
+[12/8/2015 1:31:10 PM]: KINECT GESTURE Type: Pinch Direction: Pull Shape:  Pointer: X = 682.208708763123 Y = 309.634643738154 Cell: X = 5 Y = 2
+[12/8/2015 1:31:11 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: square
+[12/8/2015 1:31:13 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: square
+[12/8/2015 1:31:25 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: circle
+[12/8/2015 1:31:28 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 677.914461560547 Y = 286.674910452615 Cell: X = 11 Y = 4
+[12/8/2015 1:31:33 PM]: KINECT GESTURE Type: Pinch Direction: Pull Shape:  Pointer: X = 775.075908124447 Y = 395.257979887329 Cell: X = 12 Y = 6
+[12/8/2015 1:31:37 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 743.678887307644 Y = 429.037139053744 Cell: X = 12 Y = 6
+[12/8/2015 1:31:38 PM]: KINECT GESTURE Type: Pinch Direction: Pull Shape:  Pointer: X = 786.505972206593 Y = 383.900734936759 Cell: X = 12 Y = 6
+[12/8/2015 1:31:38 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: circle
+[12/8/2015 1:31:46 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: circle
+[12/8/2015 1:31:47 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 717.412636443973 Y = 207.378801716201 Cell: X = 5 Y = 1
+[12/8/2015 1:31:48 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: circle
+[12/8/2015 1:31:51 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 1214 Y = 0 Cell: X = 9 Y = 0
+[12/8/2015 1:31:51 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 974.649236619473 Y = 0 Cell: X = 8 Y = 0
+[12/8/2015 1:31:52 PM]: KINECT GESTURE Type: Pinch Direction: Pull Shape:  Pointer: X = 1214 Y = 0 Cell: X = 9 Y = 0
+[12/8/2015 1:31:53 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 1214 Y = 0 Cell: X = 9 Y = 0
+[12/8/2015 1:31:53 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: circle
+[12/8/2015 1:31:54 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 1214 Y = 0 Cell: X = 9 Y = 0
+[12/8/2015 1:31:54 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 1214 Y = 0 Cell: X = 9 Y = 0
+[12/8/2015 1:31:54 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 1214 Y = 96.0043075819862 Cell: X = 9 Y = 0
+[12/8/2015 1:31:54 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 1214 Y = 0 Cell: X = 9 Y = 0
+[12/8/2015 1:32:01 PM]: KINECT GESTURE Type: Pinch Direction: Pull Shape:  Pointer: X = 0 Y = 125.919465410506 Cell: X = 0 Y = 1
+[12/8/2015 1:32:01 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 0 Y = 63.3667363888204 Cell: X = 0 Y = 0
+[12/8/2015 1:32:21 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 0 Y = 0 Cell: X = 0 Y = 0
+[12/8/2015 1:32:27 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 0 Y = 51.0719947337002 Cell: X = 0 Y = 0
+[12/8/2015 1:32:27 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 0 Y = 61.6686414335743 Cell: X = 0 Y = 0
+[12/8/2015 1:32:33 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 846.50376868248 Y = 24.2917259465447 Cell: X = 6 Y = 0
+[12/8/2015 1:32:34 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 0 Y = 0 Cell: X = 0 Y = 0
+[12/8/2015 1:32:43 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: circle
+[12/8/2015 1:32:44 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 1214 Y = 0 Cell: X = 9 Y = 0
+[12/8/2015 1:32:44 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: circle
+[12/8/2015 1:32:45 PM]: KINECT GESTURE Type: Pinch Direction: Pull Shape:  Pointer: X = 1214 Y = 0 Cell: X = 9 Y = 0
+[12/8/2015 1:32:45 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 1214 Y = 0 Cell: X = 9 Y = 0
+[12/8/2015 1:32:47 PM]: KINECT GESTURE Type: Throw Direction: Push Shape:  Pointer: X = 240.241298377514 Y = 0 Cell: X = 1 Y = 0
+[12/8/2015 1:33:23 PM]: KINECT GESTURE Type: Pinch Direction: Pull Shape:  Pointer: X = 507.797082275152 Y = 91.6814329919974 Cell: X = 4 Y = 0
+[12/8/2015 1:33:41 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: circle
+[12/8/2015 1:33:44 PM]: MOBILE GESTURE Type: Swipe Direction: Push Shape: circle
+[12/8/2015 1:33:45 PM]: KINECT GESTURE Type: Pinch Direction: Pull Shape:  Pointer: X = 896.852082639933 Y = 112.224315784503 Cell: X = 7 Y = 0
+[12/8/2015 1:33:50 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 251.366871416569 Y = 69.8560452064567 Cell: X = 2 Y = 0
+[12/8/2015 1:33:50 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: circle
+[12/8/2015 1:33:50 PM]: KINECT GESTURE Type: Pinch Direction: Pull Shape:  Pointer: X = 155.47668671608 Y = 76.916834209216 Cell: X = 1 Y = 0
+[12/8/2015 1:33:54 PM]: MOBILE GESTURE Type: Swipe Direction: Push Shape: circle
+[12/8/2015 1:33:56 PM]: KINECT GESTURE Type: Pinch Direction: Pull Shape:  Pointer: X = 727.951188668609 Y = 131.603652251818 Cell: X = 11 Y = 2
+[12/8/2015 1:33:59 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: circle
+[12/8/2015 1:34:01 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 530.999961853027 Y = 288.638321198009 Cell: X = 8 Y = 4
+[12/8/2015 1:34:02 PM]: KINECT GESTURE Type: Pinch Direction: Pull Shape:  Pointer: X = 562.436934456229 Y = 276.238348144037 Cell: X = 9 Y = 4
+[12/8/2015 1:34:14 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 1214 Y = 0 Cell: X = 19 Y = 0
+[12/8/2015 1:34:14 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 1214 Y = 0 Cell: X = 19 Y = 0
+[12/8/2015 1:34:15 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 1214 Y = 0 Cell: X = 19 Y = 0
+[12/8/2015 1:34:16 PM]: KINECT GESTURE Type: Pinch Direction: Pull Shape:  Pointer: X = 1214 Y = 0 Cell: X = 19 Y = 0
+[12/8/2015 1:34:16 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: circle
+[12/8/2015 1:34:16 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 1214 Y = 0 Cell: X = 19 Y = 0
+[12/8/2015 1:34:21 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 1214 Y = 0 Cell: X = 19 Y = 0
+[12/8/2015 1:34:23 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 1214 Y = 0 Cell: X = 19 Y = 0
+[12/8/2015 1:34:23 PM]: KINECT GESTURE Type: Pinch Direction: Pull Shape:  Pointer: X = 1214 Y = 0 Cell: X = 19 Y = 0
+[12/8/2015 1:34:26 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 1214 Y = 0 Cell: X = 19 Y = 0
+[12/8/2015 1:34:26 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 1214 Y = 0 Cell: X = 19 Y = 0
+[12/8/2015 1:34:26 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 1214 Y = 0 Cell: X = 19 Y = 0
+[12/8/2015 1:34:27 PM]: KINECT GESTURE Type: Pinch Direction: Pull Shape:  Pointer: X = 1214 Y = 0 Cell: X = 19 Y = 0
+[12/8/2015 1:34:27 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 1214 Y = 0 Cell: X = 19 Y = 0
+[12/8/2015 1:34:28 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 1214 Y = 0 Cell: X = 19 Y = 0
+[12/8/2015 1:34:28 PM]: KINECT GESTURE Type: Throw Direction: Push Shape:  Pointer: X = 1214 Y = 0 Cell: X = 19 Y = 0
+[12/8/2015 1:34:29 PM]: KINECT GESTURE Type: Pinch Direction: Pull Shape:  Pointer: X = 1214 Y = 0 Cell: X = 19 Y = 0
+[12/8/2015 1:34:29 PM]: KINECT GESTURE Type: Pinch Direction: Pull Shape:  Pointer: X = 1214 Y = 0 Cell: X = 19 Y = 0
+[12/8/2015 1:34:29 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 1214 Y = 0 Cell: X = 19 Y = 0
+[12/8/2015 1:34:30 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: circle
+[12/8/2015 1:34:36 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: square
+[12/8/2015 1:34:41 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: circle
+[12/8/2015 1:34:52 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: circle
+[12/8/2015 1:34:54 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 691.116030544043 Y = 269.91708537976 Cell: X = 11 Y = 4
+[12/8/2015 1:35:00 PM]: MOBILE GESTURE Type: Swipe Direction: Push Shape: circle
+[12/8/2015 1:35:01 PM]: KINECT GESTURE Type: Pinch Direction: Pull Shape:  Pointer: X = 366.309038251638 Y = 343.745568881652 Cell: X = 6 Y = 5
+[12/8/2015 1:35:01 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: circle
+[12/8/2015 1:35:05 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 700.776674598455 Y = 394.273390611489 Cell: X = 11 Y = 6
+[12/8/2015 1:35:09 PM]: KINECT GESTURE Type: Pinch Direction: Pull Shape:  Pointer: X = 742.488085284829 Y = 321.947743402453 Cell: X = 12 Y = 5
+[12/8/2015 1:35:09 PM]: MOBILE GESTURE Type: Swipe Direction: Push Shape: square
+[12/8/2015 1:35:12 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 450.089282035828 Y = 158.393035162615 Cell: X = 7 Y = 2
+[12/8/2015 1:35:13 PM]: KINECT GESTURE Type: Pinch Direction: Pull Shape:  Pointer: X = 451.931912332773 Y = 153.657684895907 Cell: X = 7 Y = 2
+[12/8/2015 1:35:16 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 459.936334595084 Y = 146.039913850653 Cell: X = 7 Y = 2
+[12/8/2015 1:35:17 PM]: KINECT GESTURE Type: Pinch Direction: Pull Shape:  Pointer: X = 480.058910638094 Y = 153.750673589823 Cell: X = 7 Y = 2
+[12/8/2015 1:35:21 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 460.137812077999 Y = 147.284114891625 Cell: X = 7 Y = 2
+[12/8/2015 1:35:21 PM]: KINECT GESTURE Type: Pinch Direction: Pull Shape:  Pointer: X = 450.569011002779 Y = 143.781317886254 Cell: X = 7 Y = 2
+[12/8/2015 1:35:22 PM]: MOBILE GESTURE Type: Swipe Direction: Push Shape: square
+[12/8/2015 1:35:23 PM]: KINECT GESTURE Type: Pinch Direction: Pull Shape:  Pointer: X = 506.703713044524 Y = 69.6074478069616 Cell: X = 4 Y = 0
+[12/8/2015 1:35:26 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 969.06984347105 Y = 245.384965624739 Cell: X = 7 Y = 1
+[12/8/2015 1:35:27 PM]: KINECT GESTURE Type: Pinch Direction: Pull Shape:  Pointer: X = 1070.56369811296 Y = 177.507059138814 Cell: X = 8 Y = 1
+[12/8/2015 1:35:27 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 1013.73935967684 Y = 163.565141975977 Cell: X = 8 Y = 1
+[12/8/2015 1:35:27 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: square
+[12/8/2015 1:35:28 PM]: KINECT GESTURE Type: Pinch Direction: Pull Shape:  Pointer: X = 1062.6865119338 Y = 335.580899832729 Cell: X = 8 Y = 2
+[12/8/2015 1:35:29 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: circle
+[12/8/2015 1:35:33 PM]: MOBILE GESTURE Type: Swipe Direction: Push Shape: circle
+[12/8/2015 1:35:37 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: square
+[12/8/2015 1:35:42 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 153.820871949196 Y = 191.083505222055 Cell: X = 2 Y = 3
+[12/8/2015 1:35:43 PM]: KINECT GESTURE Type: Pinch Direction: Pull Shape:  Pointer: X = 166.969450771809 Y = 186.625097631265 Cell: X = 2 Y = 3
+[12/8/2015 1:35:45 PM]: MOBILE GESTURE Type: Swipe Direction: Push Shape: square
+[12/8/2015 1:35:46 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 160.630458116531 Y = 204.677150254833 Cell: X = 2 Y = 3
+[12/8/2015 1:35:48 PM]: KINECT GESTURE Type: Pinch Direction: Pull Shape:  Pointer: X = 974.0595023036 Y = 217.608728103316 Cell: X = 16 Y = 3
+[12/8/2015 1:35:48 PM]: KINECT GESTURE Type: Throw Direction: Push Shape:  Pointer: X = 304.220181375742 Y = 0 Cell: X = 5 Y = 0
+[12/8/2015 1:36:07 PM]: KINECT GESTURE Type: Pinch Direction: Pull Shape:  Pointer: X = 1096.82047885656 Y = 37.7536032728453 Cell: X = 18 Y = 0
+[12/8/2015 1:36:07 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: circle
+[12/8/2015 1:36:13 PM]: MOBILE GESTURE Type: Swipe Direction: Push Shape: circle
+[12/8/2015 1:36:15 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: circle
+[12/8/2015 1:36:16 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 782.446447402239 Y = 169.385319283754 Cell: X = 6 Y = 1
+[12/8/2015 1:36:17 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: circle
+[12/8/2015 1:36:17 PM]: KINECT GESTURE Type: Pinch Direction: Pull Shape:  Pointer: X = 741.107464790344 Y = 122.612710037606 Cell: X = 6 Y = 0
+[12/8/2015 1:36:18 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 398.82530605793 Y = 364.924676447063 Cell: X = 3 Y = 2
+[12/8/2015 1:36:22 PM]: MOBILE GESTURE Type: Swipe Direction: Push Shape: square
+[12/8/2015 1:36:24 PM]: KINECT GESTURE Type: Pinch Direction: Pull Shape:  Pointer: X = 742.742005705833 Y = 280.416819737895 Cell: X = 6 Y = 2
+[12/8/2015 1:36:24 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: square
+[12/8/2015 1:36:29 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 1175.68224799633 Y = 76.7152853939271 Cell: X = 9 Y = 0
+[12/8/2015 1:36:30 PM]: KINECT GESTURE Type: Pinch Direction: Pull Shape:  Pointer: X = 1151.92405939102 Y = 78.1333057929298 Cell: X = 9 Y = 0
+[12/8/2015 1:36:32 PM]: MOBILE GESTURE Type: Swipe Direction: Push Shape: circle
+[12/8/2015 1:36:34 PM]: KINECT GESTURE Type: Pinch Direction: Pull Shape:  Pointer: X = 816.894167453051 Y = 181.596195166017 Cell: X = 6 Y = 1
+[12/8/2015 1:36:41 PM]: MOBILE GESTURE Type: Swipe Direction: Push Shape: square
+[12/8/2015 1:36:44 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 365.60088673234 Y = 179.400236808116 Cell: X = 6 Y = 2
+[12/8/2015 1:36:48 PM]: KINECT GESTURE Type: Pinch Direction: Pull Shape:  Pointer: X = 358.134217143059 Y = 143.520474482792 Cell: X = 5 Y = 2
+[12/8/2015 1:36:53 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 342.836997419596 Y = 151.542785934954 Cell: X = 5 Y = 2
+[12/8/2015 1:36:55 PM]: KINECT GESTURE Type: Pinch Direction: Pull Shape:  Pointer: X = 320.064063102007 Y = 130.314426032467 Cell: X = 5 Y = 2
+[12/8/2015 1:36:56 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 547.655379503965 Y = 92.6864322744491 Cell: X = 9 Y = 1
+[12/8/2015 1:36:57 PM]: KINECT GESTURE Type: Pinch Direction: Pull Shape:  Pointer: X = 291.155124127865 Y = 196.687890696998 Cell: X = 4 Y = 3
+[12/8/2015 1:36:58 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 366.535525172949 Y = 141.680969852428 Cell: X = 6 Y = 2
+[12/8/2015 1:37:03 PM]: KINECT GESTURE Type: Pinch Direction: Pull Shape:  Pointer: X = 357.762503623962 Y = 148.525166457439 Cell: X = 5 Y = 2
+[12/8/2015 1:37:03 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 348.321707457304 Y = 147.178985762742 Cell: X = 5 Y = 2
+[12/8/2015 1:37:04 PM]: KINECT GESTURE Type: Pinch Direction: Pull Shape:  Pointer: X = 321.218947410584 Y = 135.253295735792 Cell: X = 5 Y = 2
+[12/8/2015 1:37:04 PM]: MOBILE GESTURE Type: Swipe Direction: Push Shape: circle
+[12/8/2015 1:37:05 PM]: KINECT GESTURE Type: Pinch Direction: Pull Shape:  Pointer: X = 419.023453116417 Y = 61.5444571002431 Cell: X = 6 Y = 1
+[12/8/2015 1:37:05 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: circle
+[12/8/2015 1:37:06 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 720.818116948009 Y = 0 Cell: X = 11 Y = 0
+[12/8/2015 1:37:06 PM]: KINECT GESTURE Type: Pinch Direction: Pull Shape:  Pointer: X = 705.557348594069 Y = 0 Cell: X = 11 Y = 0
+[12/8/2015 1:37:07 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: circle
+[12/8/2015 1:37:07 PM]: KINECT GESTURE Type: Pinch Direction: Pull Shape:  Pointer: X = 932.440395891666 Y = 9.46485904876482 Cell: X = 15 Y = 0
+[12/8/2015 1:37:15 PM]: MOBILE GESTURE Type: Swipe Direction: Push Shape: circle
+[12/8/2015 1:37:18 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: circle
+[12/8/2015 1:37:22 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 1141.3465051055 Y = 325.597494654781 Cell: X = 18 Y = 5
+[12/8/2015 1:37:28 PM]: MOBILE GESTURE Type: Swipe Direction: Push Shape: circle
+[12/8/2015 1:37:37 PM]: MOBILE GESTURE Type: Swipe Direction: Push Shape: circle
+[12/8/2015 1:37:40 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 709.813385173678 Y = 149.475551377372 Cell: X = 5 Y = 1
+[12/8/2015 1:37:40 PM]: KINECT GESTURE Type: Pinch Direction: Pull Shape:  Pointer: X = 331.529511243105 Y = 161.182907118079 Cell: X = 2 Y = 1
+[12/8/2015 1:37:43 PM]: KINECT GESTURE Type: Throw Direction: Push Shape:  Pointer: X = 222.226398408413 Y = 0 Cell: X = 1 Y = 0
+[12/8/2015 1:37:43 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: circle
+[12/8/2015 1:37:44 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: circle
+[12/8/2015 1:37:48 PM]: MOBILE GESTURE Type: Swipe Direction: Push Shape: square
+[12/8/2015 1:37:54 PM]: MOBILE GESTURE Type: Swipe Direction: Push Shape: square
+[12/8/2015 1:38:04 PM]: MOBILE GESTURE Type: Swipe Direction: Push Shape: circle
+[12/8/2015 1:38:09 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 1056.39180362225 Y = 548.351125759845 Cell: X = 17 Y = 8
+[12/8/2015 1:38:09 PM]: KINECT GESTURE Type: Pinch Direction: Pull Shape:  Pointer: X = 971.831862330437 Y = 551.367777521529 Cell: X = 16 Y = 8
+[12/8/2015 1:38:10 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 1016.2836471796 Y = 526.142628074339 Cell: X = 16 Y = 8
+[12/8/2015 1:38:11 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: circle
+[12/8/2015 1:38:11 PM]: KINECT GESTURE Type: Pinch Direction: Pull Shape:  Pointer: X = 983.830857217312 Y = 548.535009362515 Cell: X = 16 Y = 8
+[12/8/2015 1:38:35 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: square
+[12/8/2015 1:38:35 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 1184.042075634 Y = 0 Cell: X = 19 Y = 0
+[12/8/2015 1:38:36 PM]: KINECT GESTURE Type: Pinch Direction: Pull Shape:  Pointer: X = 848.226281315088 Y = 91.8843542042825 Cell: X = 13 Y = 1
+[12/8/2015 1:38:36 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 694.231745272875 Y = 202.548984789582 Cell: X = 11 Y = 3
+[12/8/2015 1:38:37 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: circle
+[12/8/2015 1:38:37 PM]: KINECT GESTURE Type: Pinch Direction: Pull Shape:  Pointer: X = 1214 Y = 254.269683431696 Cell: X = 19 Y = 4
+[12/8/2015 1:38:38 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 1098.630420506 Y = 409.533301546099 Cell: X = 18 Y = 6
+[12/8/2015 1:38:40 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: circle
+[12/8/2015 1:38:43 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: circle
+[12/8/2015 1:38:47 PM]: KINECT GESTURE Type: Pinch Direction: Pull Shape:  Pointer: X = 1097.46640074253 Y = 479.271276623791 Cell: X = 18 Y = 7
+[12/8/2015 1:39:11 PM]: MOBILE GESTURE Type: Swipe Direction: Push Shape: circle
+[12/8/2015 1:39:13 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 887.06857123971 Y = 78.4048644498629 Cell: X = 7 Y = 0
+[12/8/2015 1:39:13 PM]: KINECT GESTURE Type: Throw Direction: Push Shape:  Pointer: X = 307.69308334589 Y = 0 Cell: X = 2 Y = 0
+[12/8/2015 1:39:15 PM]: KINECT GESTURE Type: Pinch Direction: Pull Shape:  Pointer: X = 626.734615433961 Y = 11.719425796341 Cell: X = 5 Y = 0
+[12/8/2015 1:39:16 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: circle
+[12/8/2015 1:39:19 PM]: MOBILE GESTURE Type: Swipe Direction: Push Shape: circle
+[12/8/2015 1:39:27 PM]: MOBILE GESTURE Type: Swipe Direction: Push Shape: square
+[12/8/2015 1:39:33 PM]: MOBILE GESTURE Type: Swipe Direction: Push Shape: circle
+[12/8/2015 1:39:35 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 931.905510485172 Y = 0 Cell: X = 7 Y = 0
+[12/8/2015 1:39:35 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: circle
+[12/8/2015 1:39:37 PM]: MOBILE GESTURE Type: Throw Direction: Pull Shape: circle
+[12/8/2015 1:39:38 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 1214 Y = 0 Cell: X = 9 Y = 0
+[12/8/2015 1:39:46 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 0 Y = 614 Cell: X = 0 Y = 4
+[12/8/2015 1:39:46 PM]: KINECT GESTURE Type: Pinch Direction: Push Shape:  Pointer: X = 45.6891415119171 Y = 108.353733978959 Cell: X = 0 Y = 0

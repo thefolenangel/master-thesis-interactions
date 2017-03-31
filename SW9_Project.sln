@@ -1,0 +1,63 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SW9_Project", "SW9_Project\SW9_Project.csproj", "{3F2FB401-A2C7-4296-99E9-6766480E4BC8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebDataParser", "WebDataParser\WebDataParser.csproj", "{91D7BB22-3795-4F4D-AD37-AF1D4973242C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "PublishScripts", "PublishScripts", "{B1E714B1-6ABE-4E0C-B0AE-6AB585269CAA}"
+	ProjectSection(SolutionItems) = preProject
+		PublishScripts\AzureVMPublishModule.psm1 = PublishScripts\AzureVMPublishModule.psm1
+		PublishScripts\Publish-WebApplicationVM.ps1 = PublishScripts\Publish-WebApplicationVM.ps1
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Configurations", "Configurations", "{FA3D342B-7D41-4732-B9F3-2DAE54E90166}"
+	ProjectSection(SolutionItems) = preProject
+		PublishScripts\Configurations\WebDataParser-WAWS-dev.json = PublishScripts\Configurations\WebDataParser-WAWS-dev.json
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataSetGenerator", "DataSetGenerator\DataSetGenerator.csproj", "{55A8FD05-154F-4C42-9547-2D139870E764}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManualLogger", "ManualLogger\ManualLogger.csproj", "{7774BD7C-71E9-4358-A9A0-78FCF6EAF5E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		BuletinBoard|Any CPU = BuletinBoard|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F2FB401-A2C7-4296-99E9-6766480E4BC8}.BuletinBoard|Any CPU.ActiveCfg = BuletinBoard|Any CPU
+		{3F2FB401-A2C7-4296-99E9-6766480E4BC8}.BuletinBoard|Any CPU.Build.0 = BuletinBoard|Any CPU
+		{3F2FB401-A2C7-4296-99E9-6766480E4BC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F2FB401-A2C7-4296-99E9-6766480E4BC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F2FB401-A2C7-4296-99E9-6766480E4BC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F2FB401-A2C7-4296-99E9-6766480E4BC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91D7BB22-3795-4F4D-AD37-AF1D4973242C}.BuletinBoard|Any CPU.ActiveCfg = BuletinBoard|Any CPU
+		{91D7BB22-3795-4F4D-AD37-AF1D4973242C}.BuletinBoard|Any CPU.Build.0 = BuletinBoard|Any CPU
+		{91D7BB22-3795-4F4D-AD37-AF1D4973242C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91D7BB22-3795-4F4D-AD37-AF1D4973242C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91D7BB22-3795-4F4D-AD37-AF1D4973242C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91D7BB22-3795-4F4D-AD37-AF1D4973242C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55A8FD05-154F-4C42-9547-2D139870E764}.BuletinBoard|Any CPU.ActiveCfg = BuletinBoard|Any CPU
+		{55A8FD05-154F-4C42-9547-2D139870E764}.BuletinBoard|Any CPU.Build.0 = BuletinBoard|Any CPU
+		{55A8FD05-154F-4C42-9547-2D139870E764}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55A8FD05-154F-4C42-9547-2D139870E764}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55A8FD05-154F-4C42-9547-2D139870E764}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55A8FD05-154F-4C42-9547-2D139870E764}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7774BD7C-71E9-4358-A9A0-78FCF6EAF5E8}.BuletinBoard|Any CPU.ActiveCfg = Release|Any CPU
+		{7774BD7C-71E9-4358-A9A0-78FCF6EAF5E8}.BuletinBoard|Any CPU.Build.0 = Release|Any CPU
+		{7774BD7C-71E9-4358-A9A0-78FCF6EAF5E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7774BD7C-71E9-4358-A9A0-78FCF6EAF5E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7774BD7C-71E9-4358-A9A0-78FCF6EAF5E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7774BD7C-71E9-4358-A9A0-78FCF6EAF5E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{FA3D342B-7D41-4732-B9F3-2DAE54E90166} = {B1E714B1-6ABE-4E0C-B0AE-6AB585269CAA}
+	EndGlobalSection
+EndGlobal

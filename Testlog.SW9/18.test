@@ -1,0 +1,129 @@
+[15:20:24]: Started new gesture test. Type: Pinch Direction: Push
+[15:20:24]: Changed grid size. Grid height: 5 Grid width: 10 Cell height: 122.8 Cell width: 121.4
+[15:21:33]: Changed grid size. Grid height: 10 Grid width: 20 Cell height: 61.4 Cell width: 60.7
+[15:21:42]: Target: Miss Shape: Correct TC: (12,05) CC: (08, 00) JL: NA Pointer position: (534.4,0.0).
+[15:21:52]: Target: Miss Shape: Correct TC: (07,02) CC: (06, 00) JL: Short Pointer position: (389.4,0.0).
+[15:21:53]: Changed grid size. Grid height: 5 Grid width: 10 Cell height: 122.8 Cell width: 121.4
+[15:21:59]: Target: Hit  Shape: Correct TC: (07,04) CC: (07, 04) JL: Medium Pointer position: (894.1,530.8).
+[15:22:00]: Changed grid size. Grid height: 10 Grid width: 20 Cell height: 61.4 Cell width: 60.7
+[15:22:09]: Target: Miss Shape: Correct TC: (02,03) CC: (04, 00) JL: Long Pointer position: (299.9,0.0).
+[15:22:15]: Target: Miss Shape: Correct TC: (16,03) CC: (13, 00) JL: Long Pointer position: (791.4,25.1).
+[15:22:16]: Changed grid size. Grid height: 5 Grid width: 10 Cell height: 122.8 Cell width: 121.4
+[15:22:25]: Target: Miss Shape: Correct TC: (03,03) CC: (03, 00) JL: Medium Pointer position: (440.6,0.0).
+[15:22:31]: Target: Hit  Shape: Correct TC: (09,00) CC: (09, 00) JL: Long Pointer position: (1146.9,95.2).
+[15:22:47]: Target: Hit  Shape: Correct TC: (07,02) CC: (07, 02) JL: Short Pointer position: (914.9,318.4).
+[15:22:48]: Changed grid size. Grid height: 10 Grid width: 20 Cell height: 61.4 Cell width: 60.7
+[15:22:52]: Target: Miss Shape: Correct TC: (05,02) CC: (06, 02) JL: Medium Pointer position: (398.9,179.5).
+[15:22:55]: Target: Miss Shape: Correct TC: (09,06) CC: (09, 05) JL: Short Pointer position: (570.8,360.8).
+[15:23:00]: Target: Hit  Shape: Correct TC: (19,07) CC: (19, 07) JL: Medium Pointer position: (1214.0,458.1).
+[15:23:01]: Changed grid size. Grid height: 5 Grid width: 10 Cell height: 122.8 Cell width: 121.4
+[15:23:04]: Target: Hit  Shape: Correct TC: (07,01) CC: (07, 01) JL: Short Pointer position: (897.6,186.9).
+[15:23:09]: Target: Hit  Shape: Correct TC: (01,04) CC: (01, 04) JL: Long Pointer position: (216.3,550.0).
+[15:23:17]: Target: Hit  Shape: Correct TC: (03,02) CC: (03, 02) JL: Short Pointer position: (398.8,310.8).
+[15:23:18]: Changed grid size. Grid height: 10 Grid width: 20 Cell height: 61.4 Cell width: 60.7
+[15:23:27]: Target: Miss Shape: Correct TC: (16,02) CC: (07, 00) JL: Medium Pointer position: (476.1,0.0).
+[15:23:43]: Target: Hit  Shape: Correct TC: (16,08) CC: (16, 08) JL: Short Pointer position: (1024.4,504.7).
+[15:23:44]: Changed grid size. Grid height: 5 Grid width: 10 Cell height: 122.8 Cell width: 121.4
+[15:23:50]: Target: Miss Shape: Correct TC: (01,02) CC: (00, 00) JL: Long Pointer position: (43.7,0.0).
+[15:23:51]: Changed grid size. Grid height: 10 Grid width: 20 Cell height: 61.4 Cell width: 60.7
+[15:23:55]: Target: Hit  Shape: Correct TC: (16,01) CC: (16, 01) JL: Long Pointer position: (1001.5,113.5).
+[15:23:56]: Changed grid size. Grid height: 5 Grid width: 10 Cell height: 122.8 Cell width: 121.4
+[15:24:05]: Target: Hit  Shape: Correct TC: (03,02) CC: (03, 02) JL: Medium Pointer position: (403.8,272.2).
+[15:25:03]: Started new gesture test. Type: Tilt Direction: Push
+[15:25:20]: Changed grid size. Grid height: 10 Grid width: 20 Cell height: 61.4 Cell width: 60.7
+[15:25:29]: Target: Hit  Shape: Correct TC: (15,03) CC: (15, 03) JL: NA Pointer position: (940.8,213.9).
+[15:25:35]: Target: Hit  Shape: Correct TC: (06,07) CC: (06, 07) JL: Medium Pointer position: (389.6,451.6).
+[15:25:40]: Target: Hit  Shape: Correct TC: (03,02) CC: (03, 02) JL: Short Pointer position: (215.5,159.2).
+[15:25:41]: Changed grid size. Grid height: 5 Grid width: 10 Cell height: 122.8 Cell width: 121.4
+[15:25:45]: Target: Hit  Shape: Correct TC: (08,03) CC: (08, 03) JL: Long Pointer position: (1012.0,420.2).
+[15:25:49]: Target: Hit  Shape: Correct TC: (06,00) CC: (06, 00) JL: Short Pointer position: (820.5,88.3).
+[15:25:50]: Changed grid size. Grid height: 10 Grid width: 20 Cell height: 61.4 Cell width: 60.7
+[15:25:53]: Target: Hit  Shape: Correct TC: (06,05) CC: (06, 05) JL: Medium Pointer position: (395.1,328.6).
+[15:25:54]: Changed grid size. Grid height: 5 Grid width: 10 Cell height: 122.8 Cell width: 121.4
+[15:25:55]: Target: Miss Shape: Correct TC: (08,03) CC: (05, 02) JL: Medium Pointer position: (700.9,268.9).
+[15:25:56]: Changed grid size. Grid height: 10 Grid width: 20 Cell height: 61.4 Cell width: 60.7
+[15:26:06]: Target: Hit  Shape: Correct TC: (03,03) CC: (03, 03) JL: Long Pointer position: (219.6,202.3).
+[15:26:08]: Target: Miss Shape: Correct TC: (06,08) CC: (05, 04) JL: Short Pointer position: (321.7,280.8).
+[15:26:09]: Changed grid size. Grid height: 5 Grid width: 10 Cell height: 122.8 Cell width: 121.4
+[15:26:11]: Target: Hit  Shape: Correct TC: (00,01) CC: (00, 01) JL: Long Pointer position: (64.1,197.9).
+[15:26:12]: Changed grid size. Grid height: 10 Grid width: 20 Cell height: 61.4 Cell width: 60.7
+[15:26:15]: Target: Hit  Shape: Correct TC: (05,00) CC: (05, 00) JL: Long Pointer position: (355.0,40.6).
+[15:26:19]: Target: Hit  Shape: Correct TC: (14,04) CC: (14, 04) JL: Medium Pointer position: (900.4,291.8).
+[15:26:20]: Changed grid size. Grid height: 5 Grid width: 10 Cell height: 122.8 Cell width: 121.4
+[15:26:23]: Target: Hit  Shape: Correct TC: (00,04) CC: (00, 04) JL: Long Pointer position: (0.0,560.1).
+[15:26:24]: Changed grid size. Grid height: 10 Grid width: 20 Cell height: 61.4 Cell width: 60.7
+[15:26:28]: Target: Miss Shape: Correct TC: (14,06) CC: (14, 05) JL: Long Pointer position: (897.9,345.6).
+[15:26:29]: Changed grid size. Grid height: 5 Grid width: 10 Cell height: 122.8 Cell width: 121.4
+[15:26:32]: Target: Hit  Shape: Correct TC: (02,01) CC: (02, 01) JL: Medium Pointer position: (340.9,150.7).
+[15:26:36]: Target: Hit  Shape: Correct TC: (04,03) CC: (04, 03) JL: Short Pointer position: (519.4,395.4).
+[15:26:41]: Target: Hit  Shape: Correct TC: (07,03) CC: (07, 03) JL: Short Pointer position: (913.0,369.0).
+[15:26:42]: Changed grid size. Grid height: 10 Grid width: 20 Cell height: 61.4 Cell width: 60.7
+[15:26:45]: Target: Hit  Shape: Correct TC: (13,01) CC: (13, 01) JL: Short Pointer position: (848.8,70.8).
+[15:26:46]: Changed grid size. Grid height: 5 Grid width: 10 Cell height: 122.8 Cell width: 121.4
+[15:26:49]: Target: Hit  Shape: Correct TC: (02,03) CC: (02, 03) JL: Medium Pointer position: (300.0,387.0).
+[15:28:46]: Started new gesture test. Type: Swipe Direction: Push
+[15:29:05]: Changed grid size. Grid height: 10 Grid width: 20 Cell height: 61.4 Cell width: 60.7
+[15:29:13]: Changed grid size. Grid height: 5 Grid width: 10 Cell height: 122.8 Cell width: 121.4
+[15:29:16]: Target: Hit  Shape: Correct TC: (02,02) CC: (02, 02) JL: NA Pointer position: (314.0,259.2).
+[15:29:19]: Target: Hit  Shape: Correct TC: (07,01) CC: (07, 01) JL: Medium Pointer position: (914.1,149.6).
+[15:29:20]: Changed grid size. Grid height: 10 Grid width: 20 Cell height: 61.4 Cell width: 60.7
+[15:29:23]: Target: Hit  Shape: Correct TC: (13,08) CC: (13, 08) JL: Short Pointer position: (826.6,501.0).
+[15:29:26]: Target: Miss Shape: Correct TC: (18,05) CC: (19, 04) JL: Short Pointer position: (1155.0,306.2).
+[15:29:27]: Changed grid size. Grid height: 5 Grid width: 10 Cell height: 122.8 Cell width: 121.4
+[15:29:29]: Target: Hit  Shape: Correct TC: (02,00) CC: (02, 00) JL: Long Pointer position: (287.4,52.9).
+[15:29:30]: Changed grid size. Grid height: 10 Grid width: 20 Cell height: 61.4 Cell width: 60.7
+[15:29:34]: Target: Hit  Shape: Correct TC: (12,07) CC: (12, 07) JL: Medium Pointer position: (760.6,443.7).
+[15:29:37]: Target: Hit  Shape: Correct TC: (03,03) CC: (03, 03) JL: Medium Pointer position: (186.5,200.0).
+[15:29:38]: Changed grid size. Grid height: 5 Grid width: 10 Cell height: 122.8 Cell width: 121.4
+[15:29:40]: Target: Hit  Shape: Correct TC: (08,03) CC: (08, 03) JL: Long Pointer position: (1056.0,406.5).
+[15:29:42]: Target: Hit  Shape: Correct TC: (05,02) CC: (05, 02) JL: Short Pointer position: (631.7,331.3).
+[15:29:45]: Target: Hit  Shape: Correct TC: (02,03) CC: (02, 03) JL: Short Pointer position: (287.1,401.6).
+[15:29:46]: Changed grid size. Grid height: 10 Grid width: 20 Cell height: 61.4 Cell width: 60.7
+[15:29:49]: Target: Hit  Shape: Correct TC: (17,01) CC: (17, 01) JL: Long Pointer position: (1064.4,95.6).
+[15:29:53]: Target: Hit  Shape: Correct TC: (06,08) CC: (06, 08) JL: Long Pointer position: (407.7,505.7).
+[15:29:54]: Changed grid size. Grid height: 5 Grid width: 10 Cell height: 122.8 Cell width: 121.4
+[15:29:56]: Target: Hit  Shape: Correct TC: (07,02) CC: (07, 02) JL: Medium Pointer position: (914.2,292.0).
+[15:29:57]: Changed grid size. Grid height: 10 Grid width: 20 Cell height: 61.4 Cell width: 60.7
+[15:29:59]: Target: Miss Shape: Correct TC: (01,02) CC: (02, 02) JL: Long Pointer position: (130.1,152.1).
+[15:30:00]: Changed grid size. Grid height: 5 Grid width: 10 Cell height: 122.8 Cell width: 121.4
+[15:30:02]: Target: Hit  Shape: Correct TC: (05,02) CC: (05, 02) JL: Medium Pointer position: (669.0,292.5).
+[15:30:03]: Changed grid size. Grid height: 10 Grid width: 20 Cell height: 61.4 Cell width: 60.7
+[15:30:06]: Target: Hit  Shape: Correct TC: (16,07) CC: (16, 07) JL: Short Pointer position: (994.9,430.6).
+[15:30:07]: Changed grid size. Grid height: 5 Grid width: 10 Cell height: 122.8 Cell width: 121.4
+[15:30:10]: Target: Hit  Shape: Correct TC: (01,01) CC: (01, 01) JL: Long Pointer position: (183.0,158.4).
+[15:30:11]: Changed grid size. Grid height: 10 Grid width: 20 Cell height: 61.4 Cell width: 60.7
+[15:30:13]: Target: Hit  Shape: Correct TC: (12,06) CC: (12, 06) JL: Medium Pointer position: (771.1,368.6).
+[15:30:14]: Changed grid size. Grid height: 5 Grid width: 10 Cell height: 122.8 Cell width: 121.4
+[15:30:15]: Target: Hit  Shape: Correct TC: (03,02) CC: (03, 02) JL: Short Pointer position: (392.4,296.1).
+[15:30:45]: Started new gesture test. Type: Throw Direction: Push
+[15:31:21]: Changed grid size. Grid height: 10 Grid width: 20 Cell height: 61.4 Cell width: 60.7
+[15:31:26]: Changed grid size. Grid height: 5 Grid width: 10 Cell height: 122.8 Cell width: 121.4
+[15:31:30]: Target: Hit  Shape: Correct TC: (08,01) CC: (08, 01) JL: NA Pointer position: (1028.2,203.3).
+[15:31:34]: Target: Hit  Shape: Correct TC: (03,00) CC: (03, 00) JL: Medium Pointer position: (446.0,72.5).
+[15:31:35]: Changed grid size. Grid height: 10 Grid width: 20 Cell height: 61.4 Cell width: 60.7
+[15:31:40]: Target: Hit  Shape: Correct TC: (18,08) CC: (18, 08) JL: Long Pointer position: (1107.5,520.2).
+[15:31:43]: Target: Hit  Shape: Correct TC: (04,06) CC: (04, 06) JL: Long Pointer position: (276.6,402.4).
+[15:31:44]: Changed grid size. Grid height: 5 Grid width: 10 Cell height: 122.8 Cell width: 121.4
+[15:31:49]: Target: Hit  Shape: Correct TC: (03,00) CC: (03, 00) JL: Short Pointer position: (473.9,50.9).
+[15:31:50]: Changed grid size. Grid height: 10 Grid width: 20 Cell height: 61.4 Cell width: 60.7
+[15:31:53]: Target: Miss Shape: Correct TC: (14,07) CC: (13, 07) JL: Medium Pointer position: (839.9,455.5).
+[15:31:54]: Changed grid size. Grid height: 5 Grid width: 10 Cell height: 122.8 Cell width: 121.4
+[15:31:56]: Target: Hit  Shape: Correct TC: (00,01) CC: (00, 01) JL: Long Pointer position: (30.2,165.8).
+[15:32:00]: Target: Hit  Shape: Correct TC: (07,01) CC: (07, 01) JL: Long Pointer position: (912.5,201.7).
+[15:32:01]: Changed grid size. Grid height: 10 Grid width: 20 Cell height: 61.4 Cell width: 60.7
+[15:32:05]: Target: Miss Shape: Correct TC: (10,06) CC: (11, 06) JL: Short Pointer position: (676.4,399.5).
+[15:32:11]: Target: Hit  Shape: Correct TC: (18,00) CC: (18, 00) JL: Medium Pointer position: (1119.9,38.8).
+[15:32:12]: Changed grid size. Grid height: 5 Grid width: 10 Cell height: 122.8 Cell width: 121.4
+[15:32:15]: Target: Hit  Shape: Correct TC: (02,02) CC: (02, 02) JL: Long Pointer position: (272.6,309.6).
+[15:32:16]: Changed grid size. Grid height: 10 Grid width: 20 Cell height: 61.4 Cell width: 60.7
+[15:32:20]: Target: Hit  Shape: Correct TC: (08,00) CC: (08, 00) JL: Short Pointer position: (526.8,46.3).
+[15:32:24]: Target: Hit  Shape: Correct TC: (15,07) CC: (15, 07) JL: Medium Pointer position: (963.7,467.9).
+[15:32:29]: Target: Hit  Shape: Correct TC: (02,02) CC: (02, 02) JL: Long Pointer position: (150.5,174.3).
+[15:32:30]: Changed grid size. Grid height: 5 Grid width: 10 Cell height: 122.8 Cell width: 121.4
+[15:32:32]: Target: Hit  Shape: Correct TC: (05,03) CC: (05, 03) JL: Medium Pointer position: (663.4,405.0).
+[15:32:33]: Changed grid size. Grid height: 10 Grid width: 20 Cell height: 61.4 Cell width: 60.7
+[15:32:36]: Target: Hit  Shape: Correct TC: (15,03) CC: (15, 03) JL: Short Pointer position: (946.9,228.7).
+[15:32:37]: Changed grid size. Grid height: 5 Grid width: 10 Cell height: 122.8 Cell width: 121.4
+[15:32:40]: Target: Hit  Shape: Correct TC: (05,03) CC: (05, 03) JL: Short Pointer position: (684.5,416.4).
+[15:32:42]: Target: Miss Shape: Correct TC: (01,00) CC: (02, 01) JL: Medium Pointer position: (264.6,191.5).
+[15:32:46]: Target: Hit  Shape: Correct TC: (04,01) CC: (04, 01) JL: Short Pointer position: (516.1,183.3).

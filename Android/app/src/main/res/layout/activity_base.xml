@@ -1,0 +1,57 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent" android:orientation="vertical"
+    android:layout_height="match_parent" android:background="#0099cc" tools:context=".Main">
+
+    <FrameLayout android:layout_width="match_parent" android:orientation="vertical" android:layout_height="0dp"
+        android:layout_weight="1">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+            <ImageView
+                android:layout_weight="0.5"
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:id="@+id/circle"
+                android:src="@drawable/circle"
+                android:contentDescription="@string/circle" />
+            <ImageView
+                android:layout_weight="0.5"
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:id="@+id/square"
+                android:src="@drawable/square"
+                android:contentDescription="@string/square" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+            <ImageView
+                android:layout_weight="1"
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:id="@+id/pull_shape"
+                android:src="@drawable/circle"
+                android:visibility="invisible"
+                android:contentDescription="@string/circle_pull" />
+
+        </LinearLayout>
+
+    </FrameLayout>
+
+    <!--<Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/move_cursor"
+        android:id="@+id/move_cursor"
+        android:layout_gravity="bottom|center_horizontal"
+        android:background="@color/colorLightGrey"
+        android:textColor="@color/colorBlack"
+        android:layout_weight="0.07"
+        android:longClickable="false"
+        android:focusable="false" />-->
+
+</LinearLayout>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="network_discovery" type="id"/>
+    <item name="reconnect_action" type="id"/>
+    <item name="close_app_action" type="id"/>
+    <item name="menu_action3" type="id"/>
+</resources>

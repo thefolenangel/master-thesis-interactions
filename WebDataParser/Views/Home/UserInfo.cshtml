@@ -1,0 +1,104 @@
+﻿@model WebDataParser.Models.TestDataViewModel
+@{
+    ViewBag.Title = "User ID: " + Model.ID;
+}
+<script>
+
+    $(this).keydown(function (e) {
+        if (e.which == 37) { // left
+            window.location.href = "@Url.Action("UserInfo", "Home", new { testId = ViewBag.PrevLink })";
+        }
+        else if (e.which == 39) { // right
+            window.location.href = "@Url.Action("UserInfo", "Home", new { testId = ViewBag.NextLink })";
+        }
+    });
+
+    @Model.GestureInformation["tilt"].HitData
+    @Model.GestureInformation["tilt"].TimeData
+    @Model.GestureInformation["throw"].HitData
+    @Model.GestureInformation["throw"].TimeData
+    @Model.GestureInformation["swipe"].HitData
+    @Model.GestureInformation["swipe"].TimeData
+    @Model.GestureInformation["pinch"].HitData
+    @Model.GestureInformation["pinch"].TimeData
+
+</script>
+@Scripts.Render("~/bundles/documentready")
+<h1> UserID: @Model.ID</h1>
+
+<table id="hitPercentageGraph">
+    <tr>
+        <td></td>
+        <td>Hit percentage</td>
+        <td></td>
+    </tr>
+
+    <tr>
+        <td></td>
+        <td>
+            <div id="hitpercentage" class="graphContainer"> </div>
+        </td>
+        <td><div id="HitPercentlegend"></div></td>
+    </tr>
+</table>
+
+<table id="timeGraph">
+    <tr>
+        <td></td>
+        <td>Time spent per target</td>
+        <td></td>
+    </tr>
+
+    <tr>
+        <td></td>
+        <td>
+            <div id="timepertarget" class="graphContainer"> </div>
+        </td>
+        <td><div id="TimeLegend"></div></td>
+    </tr>
+</table>
+
+<br>
+
+<table id="hitPlot">
+    <tr class="description">
+        <th>Tilt</th>
+        <th>Throw</th>
+        <th>Swipe</th>
+        <th>Pinch</th>
+        <th></th>
+    </tr> <!-- 
+    <tr class="data"> 
+        <td><img src="@Url.Action("GetImage", "Home", new { testId = Model.ID, type = "tilt" })"></td>
+        <td><img src="@Url.Action("GetImage", "Home", new { testId = Model.ID, type = "throw" })"></td>
+        <td><img src="@Url.Action("GetImage", "Home", new { testId = Model.ID, type = "swipe" })"></td>
+        <td><img src="@Url.Action("GetImage", "Home", new { testId = Model.ID, type = "pinch" })"></td>
+        <td><p style="color:green">Green: Small grid</p><p style="color:red">Red: Large grid</p></td>
+    </tr>-->
+    <tr>
+        <td id="TiltInfo">
+            <p class="PracticeTime"> Practice Time: @Model.GestureInformation["tilt"].PracticeTime </p>
+            <p class="TotalTime"> Total Time: @Model.GestureInformation["tilt"].TotalTime </p>
+            <p class="FinalHit"> Final Hit %: @Model.GestureInformation["tilt"].HitPercentage </p>
+        </td>
+        <td id="ThrowInfo">
+            <p class="PracticeTime"> Practice Time: @Model.GestureInformation["throw"].PracticeTime </p>
+            <p class="TotalTime"> Total Time: @Model.GestureInformation["throw"].TotalTime </p>
+            <p class="FinalHit"> Final Hit %: @Model.GestureInformation["throw"].HitPercentage </p>
+        </td>
+        <td id="SwipeInfo">
+            <p class="PracticeTime"> Practice Time: @Model.GestureInformation["swipe"].PracticeTime </p>
+            <p class="TotalTime"> Total Time: @Model.GestureInformation["swipe"].TotalTime </p>
+            <p class="FinalHit"> Final Hit %: @Model.GestureInformation["swipe"].HitPercentage </p>
+        </td>
+        <td id="PinchInfo">
+            <p class="PracticeTime"> Practice Time: @Model.GestureInformation["pinch"].PracticeTime </p>
+            <p class="TotalTime"> Total Time: @Model.GestureInformation["pinch"].TotalTime </p>
+            <p class="FinalHit"> Final Hit %: @Model.GestureInformation["pinch"].HitPercentage </p>
+        </td>
+    </tr>
+
+</table>
+
+<a href="@Url.Action("UserInfo", "Home", new { testId = ViewBag.PrevLink })" id="linkPrev">&#8678; Prev</a> |
+<a href="@Url.Action("UserInfo", "Home", new { testId = ViewBag.NextLink })" id="linkNext">Next &#8680;</a>

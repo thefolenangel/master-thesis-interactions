@@ -1,0 +1,25 @@
+﻿.graphContainer {
+	width:600px; 
+	height:300px; 
+	display: table-cell;
+}
+
+#hitPercentageGraph {
+}
+
+#hitPercentageGraph, #timeGraph {
+	text-align:center;
+	border:1px solid #000;
+}
+
+#hitPlot {}
+
+#hitPlot .data td img {
+	border:1px solid #000;
+	margin: 10px;
+}
+
+h3 {
+	margin-top: 30px;
+	margin-bottom: 5px;
+}

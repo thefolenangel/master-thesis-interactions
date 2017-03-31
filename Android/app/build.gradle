@@ -1,0 +1,37 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 23
+    buildToolsVersion "23.0.1"
+
+    defaultConfig {
+        applicationId "com.nui.android"
+        minSdkVersion 15
+        targetSdkVersion 23
+        versionCode 1
+        versionName "1.0"
+    }
+    buildTypes {
+        debug {
+            def host = InetAddress.getLocalHost().hostAddress
+            buildConfigField "String", "IP_ADDRESS", '\"' + host + '\"'
+        }
+        release {
+            def host = InetAddress.getLocalHost().hostAddress
+            buildConfigField "String", "IP_ADDRESS", '\"' + host + '\"'
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+    sourceSets { main { res.srcDirs = ['src/main/res', 'src/main/res/images'] } }
+}
+
+dependencies {
+    testCompile 'junit:junit:4.12'
+    compile 'com.android.support:appcompat-v7:23.0.1'
+    compile 'com.android.support:support-v4:23.0.1'
+    compile files('libs/commons-math3-3.5.jar')
+    compile 'com.google.code.gson:gson:2.4'
+    //2.31 at jcenter, 2.4 at marvencentral, see depencendy in project gradle.
+    compile 'com.github.nkzawa:socket.io-client:0.3.0'
+}
